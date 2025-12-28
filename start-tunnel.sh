@@ -61,7 +61,7 @@ while true; do
         -o PreferredAuthentications=password \
         -o PubkeyAuthentication=no \
         -p ${SSH_PORT} \
-        -D 0.0.0.0:${SOCKS_PORT} \
+        -D 127.0.0.1:${SOCKS_PORT} \
         ${SSH_USER}@${SSH_HOST} \
         -N
     
