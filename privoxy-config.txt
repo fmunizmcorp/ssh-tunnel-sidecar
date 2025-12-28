@@ -1,0 +1,3 @@
+# Privoxy config for SOCKS5 to HTTP proxy conversion
+listen-address  0.0.0.0:8118
+forward-socks5t / 127.0.0.1:9050 .
