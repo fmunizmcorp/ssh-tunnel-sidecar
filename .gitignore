@@ -8,3 +8,5 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+graphify-out/cache/
+graphify-out/.graphify_root
