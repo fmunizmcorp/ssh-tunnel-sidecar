@@ -9,7 +9,7 @@
       "source_file": "README.md",
       "source_location": "L1",
       "id": "readme_md",
-      "community": 1,
+      "community": 3,
       "norm_label": "readme.md"
     },
     {
@@ -18,7 +18,7 @@
       "source_file": "README.md",
       "source_location": "L1",
       "id": "ssh_tunnel_sidecar_readme_ssh_tunnel_sidecar",
-      "community": 1,
+      "community": 3,
       "norm_label": "\ud83d\udd17 ssh tunnel sidecar"
     },
     {
@@ -27,7 +27,7 @@
       "source_file": "README.md",
       "source_location": "L5",
       "id": "ssh_tunnel_sidecar_readme_problema_que_resolve",
-      "community": 1,
+      "community": 3,
       "norm_label": "\ud83c\udfaf problema que resolve"
     },
     {
@@ -36,7 +36,7 @@
       "source_file": "README.md",
       "source_location": "L9",
       "id": "ssh_tunnel_sidecar_readme_arquitetura",
-      "community": 1,
+      "community": 3,
       "norm_label": "\ud83c\udfd7\ufe0f arquitetura"
     },
     {
@@ -45,7 +45,7 @@
       "source_file": "README.md",
       "source_location": "L11",
       "id": "ssh_tunnel_sidecar_readme_codeblock_1",
-      "community": 1,
+      "community": 3,
       "norm_label": "code:block1 ([container app])"
     },
     {
@@ -71,7 +71,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L32",
-      "id": "ssh_tunnel_sidecar_readme_2_configurar_vari_veis_de_ambiente",
+      "id": "ssh_tunnel_sidecar_readme_2_configurar_vari\u00e1veis_de_ambiente",
       "community": 4,
       "norm_label": "2. configurar variaveis de ambiente"
     },
@@ -116,8 +116,8 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L63",
-      "id": "ssh_tunnel_sidecar_readme_valida_o",
-      "community": 1,
+      "id": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o",
+      "community": 3,
       "norm_label": "\u2705 validacao"
     },
     {
@@ -126,7 +126,7 @@
       "source_file": "README.md",
       "source_location": "L67",
       "id": "ssh_tunnel_sidecar_readme_codeblock_4",
-      "community": 1,
+      "community": 3,
       "norm_label": "code:block4 (\ud83d\ude80 iniciando ssh tunnel sidecar...)"
     },
     {
@@ -135,7 +135,7 @@
       "source_file": "README.md",
       "source_location": "L84",
       "id": "ssh_tunnel_sidecar_readme_testar_do_uscall_scraper",
-      "community": 1,
+      "community": 3,
       "norm_label": "\ud83e\uddea testar do uscall-scraper"
     },
     {
@@ -144,7 +144,7 @@
       "source_file": "README.md",
       "source_location": "L86",
       "id": "ssh_tunnel_sidecar_readme_codeblock_5",
-      "community": 1,
+      "community": 3,
       "norm_label": "code:bash (# dentro do container uscall-scraper:)"
     },
     {
@@ -153,7 +153,7 @@
       "source_file": "README.md",
       "source_location": "L91",
       "id": "ssh_tunnel_sidecar_readme_troubleshooting",
-      "community": 1,
+      "community": 6,
       "norm_label": "\ud83d\udd27 troubleshooting"
     },
     {
@@ -161,8 +161,8 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L93",
-      "id": "ssh_tunnel_sidecar_readme_t_nel_desconecta",
-      "community": 1,
+      "id": "ssh_tunnel_sidecar_readme_t\u00fanel_desconecta",
+      "community": 6,
       "norm_label": "tunel desconecta"
     },
     {
@@ -171,7 +171,7 @@
       "source_file": "README.md",
       "source_location": "L97",
       "id": "ssh_tunnel_sidecar_readme_connection_refused",
-      "community": 1,
+      "community": 6,
       "norm_label": "\"connection refused\""
     },
     {
@@ -180,7 +180,7 @@
       "source_file": "README.md",
       "source_location": "L102",
       "id": "ssh_tunnel_sidecar_readme_permission_denied",
-      "community": 1,
+      "community": 6,
       "norm_label": "\"permission denied\""
     },
     {
@@ -189,7 +189,7 @@
       "source_file": "README.md",
       "source_location": "L107",
       "id": "ssh_tunnel_sidecar_readme_commits",
-      "community": 1,
+      "community": 3,
       "norm_label": "\ud83d\udcdd commits"
     },
     {
@@ -441,7 +441,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L288",
       "id": "ssh_tunnel_sidecar_claude_ssh_tunnel_sidecar",
-      "community": 3,
+      "community": 1,
       "norm_label": "ssh tunnel sidecar"
     },
     {
@@ -450,7 +450,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L292",
       "id": "ssh_tunnel_sidecar_claude_problema_que_resolve",
-      "community": 3,
+      "community": 1,
       "norm_label": "problema que resolve"
     },
     {
@@ -459,7 +459,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L296",
       "id": "ssh_tunnel_sidecar_claude_arquitetura",
-      "community": 3,
+      "community": 1,
       "norm_label": "arquitetura"
     },
     {
@@ -468,7 +468,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L298",
       "id": "ssh_tunnel_sidecar_claude_codeblock_1",
-      "community": 3,
+      "community": 1,
       "norm_label": "code:block1 ([container app])"
     },
     {
@@ -540,7 +540,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L350",
       "id": "ssh_tunnel_sidecar_claude_validao",
-      "community": 3,
+      "community": 1,
       "norm_label": "validao"
     },
     {
@@ -594,7 +594,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L376",
       "id": "ssh_tunnel_sidecar_claude_9_aprendizado_e_atualizacao_continua",
-      "community": 3,
+      "community": 1,
       "norm_label": "9. aprendizado e atualizacao continua"
     },
     {
@@ -603,7 +603,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L378",
       "id": "ssh_tunnel_sidecar_claude_regra_de_ouro_sempre_atualize_o_conhecimento_do_projeto",
-      "community": 3,
+      "community": 1,
       "norm_label": "regra de ouro: sempre atualize o conhecimento do projeto"
     },
     {
@@ -612,7 +612,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L404",
       "id": "ssh_tunnel_sidecar_claude_triggers_para_regenerar_grafo",
-      "community": 3,
+      "community": 1,
       "norm_label": "triggers para regenerar grafo"
     },
     {
@@ -621,7 +621,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L414",
       "id": "ssh_tunnel_sidecar_claude_10_checklist_de_entrega_obrigatorio",
-      "community": 6,
+      "community": 1,
       "norm_label": "10. checklist de entrega obrigatorio"
     },
     {
@@ -630,7 +630,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L418",
       "id": "ssh_tunnel_sidecar_claude_codigo",
-      "community": 6,
+      "community": 1,
       "norm_label": "codigo"
     },
     {
@@ -639,7 +639,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L426",
       "id": "ssh_tunnel_sidecar_claude_testes",
-      "community": 6,
+      "community": 1,
       "norm_label": "testes"
     },
     {
@@ -648,7 +648,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L434",
       "id": "ssh_tunnel_sidecar_claude_documentacao",
-      "community": 6,
+      "community": 1,
       "norm_label": "documentacao"
     },
     {
@@ -657,7 +657,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L442",
       "id": "ssh_tunnel_sidecar_claude_deploy",
-      "community": 6,
+      "community": 1,
       "norm_label": "deploy"
     },
     {
@@ -666,7 +666,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L450",
       "id": "ssh_tunnel_sidecar_claude_sinalizar_conclusao",
-      "community": 6,
+      "community": 1,
       "norm_label": "sinalizar conclusao"
     },
     {
@@ -675,7 +675,7 @@
       "source_file": "CLAUDE.md",
       "source_location": "L456",
       "id": "ssh_tunnel_sidecar_claude_11_referencias_rapidas",
-      "community": 3,
+      "community": 1,
       "norm_label": "11. referencias rapidas"
     },
     {
@@ -767,6 +767,33 @@
       "id": "docs_historico_yyyy_mm_dd_vx_y_z_titulo_da_sessao",
       "community": 9,
       "norm_label": "yyyy-mm-dd - vx.y.z - titulo da sessao"
+    },
+    {
+      "label": "2. Configurar vari\u00e1veis de ambiente",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L32",
+      "community": 4,
+      "norm_label": "2. configurar variaveis de ambiente",
+      "id": "ssh_tunnel_sidecar_readme_2_configurar_vari_veis_de_ambiente"
+    },
+    {
+      "label": "\u2705 Valida\u00e7\u00e3o",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L63",
+      "community": 3,
+      "norm_label": "\u2705 validacao",
+      "id": "ssh_tunnel_sidecar_readme_valida_o"
+    },
+    {
+      "label": "T\u00fanel desconecta",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L93",
+      "community": 6,
+      "norm_label": "tunel desconecta",
+      "id": "ssh_tunnel_sidecar_readme_t_nel_desconecta"
     }
   ],
   "links": [
@@ -816,9 +843,9 @@
       "source_file": "README.md",
       "source_location": "L63",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_ssh_tunnel_sidecar",
-      "target": "ssh_tunnel_sidecar_readme_valida_o"
+      "target": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -854,6 +881,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
+      "source_location": "L63",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "ssh_tunnel_sidecar_readme_ssh_tunnel_sidecar",
+      "target": "ssh_tunnel_sidecar_readme_valida_o"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
       "source_location": "L11",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -876,9 +913,9 @@
       "source_file": "README.md",
       "source_location": "L32",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_como_usar_no_easypanel",
-      "target": "ssh_tunnel_sidecar_readme_2_configurar_vari_veis_de_ambiente"
+      "target": "ssh_tunnel_sidecar_readme_2_configurar_vari\u00e1veis_de_ambiente",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -899,6 +936,26 @@
       "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_como_usar_no_easypanel",
       "target": "ssh_tunnel_sidecar_readme_4_configurar_o_uscall_scraper"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "ssh_tunnel_sidecar_readme_como_usar_no_easypanel",
+      "target": "ssh_tunnel_sidecar_readme_2_configurar_vari_veis_de_ambiente"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "ssh_tunnel_sidecar_readme_2_configurar_vari\u00e1veis_de_ambiente",
+      "target": "ssh_tunnel_sidecar_readme_codeblock_2",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -926,6 +983,16 @@
       "source_file": "README.md",
       "source_location": "L67",
       "weight": 1.0,
+      "source": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o",
+      "target": "ssh_tunnel_sidecar_readme_codeblock_4",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "weight": 1.0,
       "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_valida_o",
       "target": "ssh_tunnel_sidecar_readme_codeblock_4"
@@ -946,9 +1013,9 @@
       "source_file": "README.md",
       "source_location": "L93",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_troubleshooting",
-      "target": "ssh_tunnel_sidecar_readme_t_nel_desconecta"
+      "target": "ssh_tunnel_sidecar_readme_t\u00fanel_desconecta",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -969,6 +1036,16 @@
       "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_troubleshooting",
       "target": "ssh_tunnel_sidecar_readme_permission_denied"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L93",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "ssh_tunnel_sidecar_readme_troubleshooting",
+      "target": "ssh_tunnel_sidecar_readme_t_nel_desconecta"
     },
     {
       "relation": "contains",
@@ -1582,5 +1659,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "6e4a50030eebfcf9d434234fb785784ddf701115"
+  "built_at_commit": "1fb12bcf3c060042d517a3ce22bc40decd229770"
 }
