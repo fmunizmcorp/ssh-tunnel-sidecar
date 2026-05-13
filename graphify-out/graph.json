@@ -843,9 +843,9 @@
       "source_file": "README.md",
       "source_location": "L63",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_ssh_tunnel_sidecar",
-      "target": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o",
-      "confidence_score": 1.0
+      "target": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o"
     },
     {
       "relation": "contains",
@@ -913,9 +913,9 @@
       "source_file": "README.md",
       "source_location": "L32",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_como_usar_no_easypanel",
-      "target": "ssh_tunnel_sidecar_readme_2_configurar_vari\u00e1veis_de_ambiente",
-      "confidence_score": 1.0
+      "target": "ssh_tunnel_sidecar_readme_2_configurar_vari\u00e1veis_de_ambiente"
     },
     {
       "relation": "contains",
@@ -953,9 +953,9 @@
       "source_file": "README.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_2_configurar_vari\u00e1veis_de_ambiente",
-      "target": "ssh_tunnel_sidecar_readme_codeblock_2",
-      "confidence_score": 1.0
+      "target": "ssh_tunnel_sidecar_readme_codeblock_2"
     },
     {
       "relation": "contains",
@@ -983,9 +983,9 @@
       "source_file": "README.md",
       "source_location": "L67",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o",
-      "target": "ssh_tunnel_sidecar_readme_codeblock_4",
-      "confidence_score": 1.0
+      "target": "ssh_tunnel_sidecar_readme_codeblock_4"
     },
     {
       "relation": "contains",
@@ -1013,9 +1013,9 @@
       "source_file": "README.md",
       "source_location": "L93",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ssh_tunnel_sidecar_readme_troubleshooting",
-      "target": "ssh_tunnel_sidecar_readme_t\u00fanel_desconecta",
-      "confidence_score": 1.0
+      "target": "ssh_tunnel_sidecar_readme_t\u00fanel_desconecta"
     },
     {
       "relation": "contains",
@@ -1659,5 +1659,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "1fb12bcf3c060042d517a3ce22bc40decd229770"
+  "built_at_commit": "94d7105fbc7d9ca02d5d64062dc1500e643cf959"
 }
