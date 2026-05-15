@@ -1,16 +1,16 @@
-# Graph Report - ssh-tunnel-sidecar  (2026-05-13)
+# Graph Report - ssh-tunnel-sidecar  (2026-05-15)
 
 ## Corpus Check
-- 4 files · ~3,079 words
+- 5 files · ~3,290 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 88 nodes · 86 edges · 10 communities
+- 90 nodes · 87 edges · 10 communities (9 shown, 1 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `94d7105f`
+- Built from commit: `f81176fa`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -41,7 +41,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (10 total, 0 thin omitted)
+## Communities (10 total, 1 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.13
@@ -56,8 +56,8 @@ Cohesion: 0.17
 Nodes (12): ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA, Fluxo padrao quando o usuario pede arquivo, Padroes Brasil obrigatorios em cada arquivo gerado, REGRA 0 - VOCE E O LIDER + ORQUESTRADOR DESTE REPO. ATIVO. AGORA., REGRA -1 - O USUARIO E LEIGO. NUNCA PERGUNTE SOBRE PERSONA, SKILL OU CONFIGURACAO., REGRA 1 - SKILLS BASAIS - SEMPRE ON. NAO PERGUNTE. NAO ESCOLHA., REGRA 2.5 - GERACAO DE ARQUIVOS (Excel, PDF, DOCX, PPTX) - SKILLS XLSX/PDF/DOCX/PPTX, REGRA 2 - SKILLS CONDICIONAIS PARA REPO DE DESENVOLVIMENTO (+4 more)
 
 ### Community 3 - "Community 3"
-Cohesion: 0.2
-Nodes (10): 🏗️ Arquitetura, code:block1 ([Container App]), code:block4 (🚀 Iniciando SSH Tunnel Sidecar...), code:bash (# Dentro do container uscall-scraper:), 📝 Commits, 🎯 Problema que Resolve, 🔗 SSH Tunnel Sidecar, 🧪 Testar do uscall-scraper (+2 more)
+Cohesion: 0.13
+Nodes (15): 🏗️ Arquitetura, code:block1 ([Container App]), code:block4 (🚀 Iniciando SSH Tunnel Sidecar...), code:bash (# Dentro do container uscall-scraper:), 📝 Commits, "Connection refused", "Permission denied", 🎯 Problema que Resolve (+7 more)
 
 ### Community 4 - "Community 4"
 Cohesion: 0.29
@@ -66,10 +66,6 @@ Nodes (8): 1. Criar novo projeto no EasyPanel, 2. Configurar variáveis de ambie
 ### Community 5 - "Community 5"
 Cohesion: 0.29
 Nodes (7): 1. Criar novo projeto no EasyPanel, 2. Configurar variveis de ambiente, 3. Configurar networking, 4. Configurar o uscall-scraper, code:bash (SSH_HOST=192.168.192.164), code:bash (# REMOVER ESTAS (no funciona em rede bridge):), Como Usar no EasyPanel
-
-### Community 6 - "Community 6"
-Cohesion: 0.4
-Nodes (5): "Connection refused", "Permission denied", Túnel desconecta, 🔧 Troubleshooting, Túnel desconecta
 
 ### Community 7 - "Community 7"
 Cohesion: 0.4
@@ -84,19 +80,22 @@ Cohesion: 0.4
 Nodes (4): Como usar, Historico, Historico de Sessoes - fmunizmcorp/ssh-tunnel-sidecar, YYYY-MM-DD - vX.Y.Z - Titulo da sessao
 
 ## Knowledge Gaps
-- **52 isolated node(s):** `🎯 Problema que Resolve`, `code:block1 ([Container App])`, `1. Criar novo projeto no EasyPanel`, `3. Configurar networking`, `code:bash (# REMOVER ESTAS (não funciona em rede bridge):)` (+47 more)
+- **53 isolated node(s):** `SSHPASS`, `🎯 Problema que Resolve`, `code:block1 ([Container App])`, `1. Criar novo projeto no EasyPanel`, `3. Configurar networking` (+48 more)
   These have ≤1 connection - possible missing edges or undocumented components.
+- **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `SSH Tunnel Sidecar` connect `Community 1` to `Community 0`, `Community 5`, `Community 7`?**
-  _High betweenness centrality (0.261) - this node is a cross-community bridge._
+  _High betweenness centrality (0.249) - this node is a cross-community bridge._
 - **Why does `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` connect `Community 2` to `Community 0`?**
-  _High betweenness centrality (0.137) - this node is a cross-community bridge._
-- **What connects `🎯 Problema que Resolve`, `code:block1 ([Container App])`, `1. Criar novo projeto no EasyPanel` to the rest of the system?**
-  _52 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _High betweenness centrality (0.131) - this node is a cross-community bridge._
+- **What connects `SSHPASS`, `🎯 Problema que Resolve`, `code:block1 ([Container App])` to the rest of the system?**
+  _53 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.13 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
+  _Cohesion score 0.13 - nodes in this community are weakly interconnected._
+- **Should `Community 3` be split into smaller, more focused modules?**
   _Cohesion score 0.13 - nodes in this community are weakly interconnected._
