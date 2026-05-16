@@ -1,16 +1,16 @@
-# Graph Report - ssh-tunnel-sidecar  (2026-05-15)
+# Graph Report - ssh-tunnel-sidecar  (2026-05-16)
 
 ## Corpus Check
-- 5 files · ~3,290 words
+- 8 files · ~4,113 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 90 nodes · 87 edges · 10 communities (9 shown, 1 thin omitted)
+- 121 nodes · 115 edges · 13 communities (12 shown, 1 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `f81176fa`
+- Built from commit: `26213133`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -25,23 +25,26 @@
 - [[_COMMUNITY_Community 7|Community 7]]
 - [[_COMMUNITY_Community 8|Community 8]]
 - [[_COMMUNITY_Community 9|Community 9]]
+- [[_COMMUNITY_Community 10|Community 10]]
+- [[_COMMUNITY_Community 11|Community 11]]
+- [[_COMMUNITY_Community 12|Community 12]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` - 10 edges
-2. `🔗 SSH Tunnel Sidecar` - 9 edges
+2. `Orquestrador - fmunizmcorp/ssh-tunnel-sidecar` - 10 edges
 3. `SSH Tunnel Sidecar` - 9 edges
-4. `CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar` - 8 edges
-5. `🚀 Como Usar no EasyPanel` - 6 edges
-6. `10. CHECKLIST DE ENTREGA OBRIGATORIO` - 6 edges
-7. `🔧 Troubleshooting` - 5 edges
-8. `Como Usar no EasyPanel` - 5 edges
-9. `3. SQUAD DE IAs (skills aplicaveis)` - 4 edges
-10. `REGRA 2.5 - GERACAO DE ARQUIVOS (Excel, PDF, DOCX, PPTX) - SKILLS XLSX/PDF/DOCX/PPTX` - 3 edges
+4. `🔗 SSH Tunnel Sidecar` - 9 edges
+5. `CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar` - 8 edges
+6. `Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar` - 7 edges
+7. `10. CHECKLIST DE ENTREGA OBRIGATORIO` - 6 edges
+8. `🚀 Como Usar no EasyPanel` - 6 edges
+9. `Como Usar no EasyPanel` - 5 edges
+10. `🔧 Troubleshooting` - 5 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (10 total, 1 thin omitted)
+## Communities (13 total, 1 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.13
@@ -79,8 +82,20 @@ Nodes (4): Aprendizados, Aprendizados - fmunizmcorp/ssh-tunnel-sidecar, Como usa
 Cohesion: 0.4
 Nodes (4): Como usar, Historico, Historico de Sessoes - fmunizmcorp/ssh-tunnel-sidecar, YYYY-MM-DD - vX.Y.Z - Titulo da sessao
 
+### Community 10 - "Community 10"
+Cohesion: 0.14
+Nodes (13): code:block1 (Trabalhando em fmunizmcorp/ssh-tunnel-sidecar. Como Engenhei), code:block2 (Feature nova em fmunizmcorp/ssh-tunnel-sidecar: <DESCRICAO>), code:block3 (Bug em fmunizmcorp/ssh-tunnel-sidecar: <DESCRICAO + STACK TR), code:block4 (Auditoria em fmunizmcorp/ssh-tunnel-sidecar: <ESCOPO>), code:block5 (Deploy em fmunizmcorp/ssh-tunnel-sidecar: versao <X.Y.Z>), code:block6 (Descobri novo padrao em fmunizmcorp/ssh-tunnel-sidecar que v), Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar, Template 1: Comeco de sessao (+5 more)
+
+### Community 11 - "Community 11"
+Cohesion: 0.15
+Nodes (12): Criticidade, Decisoes que NAO sao suas, Decisoes que voce (orquestrador) toma, Dominio de atuacao, Especialistas deste projeto, Missao, Orquestrador - fmunizmcorp/ssh-tunnel-sidecar, Persona (+4 more)
+
+### Community 12 - "Community 12"
+Cohesion: 0.5
+Nodes (3): Basais (sempre), Padroes, Skills aplicaveis (Shell / Outros)
+
 ## Knowledge Gaps
-- **53 isolated node(s):** `SSHPASS`, `🎯 Problema que Resolve`, `code:block1 ([Container App])`, `1. Criar novo projeto no EasyPanel`, `3. Configurar networking` (+48 more)
+- **71 isolated node(s):** `SSHPASS`, `REGRA -1 - O USUARIO E LEIGO. NUNCA PERGUNTE SOBRE PERSONA, SKILL OU CONFIGURACAO.`, `REGRA 0 - VOCE E O LIDER + ORQUESTRADOR DESTE REPO. ATIVO. AGORA.`, `REGRA 1 - SKILLS BASAIS - SEMPRE ON. NAO PERGUNTE. NAO ESCOLHA.`, `REGRA 2 - SKILLS CONDICIONAIS PARA REPO DE DESENVOLVIMENTO` (+66 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -88,14 +103,16 @@ Nodes (4): Como usar, Historico, Historico de Sessoes - fmunizmcorp/ssh-tunnel-s
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `SSH Tunnel Sidecar` connect `Community 1` to `Community 0`, `Community 5`, `Community 7`?**
-  _High betweenness centrality (0.249) - this node is a cross-community bridge._
+  _High betweenness centrality (0.137) - this node is a cross-community bridge._
 - **Why does `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` connect `Community 2` to `Community 0`?**
-  _High betweenness centrality (0.131) - this node is a cross-community bridge._
-- **What connects `SSHPASS`, `🎯 Problema que Resolve`, `code:block1 ([Container App])` to the rest of the system?**
-  _53 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _High betweenness centrality (0.072) - this node is a cross-community bridge._
+- **What connects `SSHPASS`, `REGRA -1 - O USUARIO E LEIGO. NUNCA PERGUNTE SOBRE PERSONA, SKILL OU CONFIGURACAO.`, `REGRA 0 - VOCE E O LIDER + ORQUESTRADOR DESTE REPO. ATIVO. AGORA.` to the rest of the system?**
+  _71 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.13 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.13 - nodes in this community are weakly interconnected._
 - **Should `Community 3` be split into smaller, more focused modules?**
   _Cohesion score 0.13 - nodes in this community are weakly interconnected._
+- **Should `Community 10` be split into smaller, more focused modules?**
+  _Cohesion score 0.14 - nodes in this community are weakly interconnected._
