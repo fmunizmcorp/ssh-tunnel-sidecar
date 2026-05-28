@@ -1,51 +1,51 @@
 {
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/start-tunnel.sh": {
-    "mtime": 1779875815.9015434,
+    "mtime": 1779962832.6003802,
     "ast_hash": "e31517936e1b7b16db3fa5a39d38b901",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/privoxy-config.txt": {
-    "mtime": 1779875815.9015434,
+    "mtime": 1779962832.6003802,
     "ast_hash": "2825d49d824eb8a2f42fff03c0a0ee3f",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/CLAUDE.md": {
-    "mtime": 1779875815.9010272,
+    "mtime": 1779962832.5997808,
     "ast_hash": "3c03928bec94797acb958c8d917f7e27",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/README.md": {
-    "mtime": 1779875815.9010272,
+    "mtime": 1779962832.5997808,
     "ast_hash": "6938040114e352421d0e29f3e0e74efc",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/docs/APRENDIZADOS.md": {
-    "mtime": 1779875815.9010272,
+    "mtime": 1779962832.5997808,
     "ast_hash": "c45e2f627f01f11996b3a176855b505e",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/docs/HISTORICO.md": {
-    "mtime": 1779875815.9013665,
+    "mtime": 1779962832.6000566,
     "ast_hash": "d2ce36f2c34975a99f042bbd65f50835",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/.github/workflows/graphify.yml": {
-    "mtime": 1779875815.9010272,
+    "mtime": 1779962832.5997808,
     "ast_hash": "3f73f40d0b691c5e97a37ddbe3d87734",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/.claude/skills.md": {
-    "mtime": 1779875815.9009073,
+    "mtime": 1779962832.5996919,
     "ast_hash": "6cfc756cdabaa169900c968bf736202f",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/.claude/prompts.md": {
-    "mtime": 1779875815.9009073,
+    "mtime": 1779962832.5996919,
     "ast_hash": "0d4975c9f4b74f7c159a55ed2ca6ddc0",
     "semantic_hash": ""
   },
   "/home/runner/work/ssh-tunnel-sidecar/ssh-tunnel-sidecar/.claude/orquestrador.md": {
-    "mtime": 1779875815.8999743,
+    "mtime": 1779962832.59938,
     "ast_hash": "f35b52fe5191e60c327bce44e378caf5",
     "semantic_hash": ""
   }
