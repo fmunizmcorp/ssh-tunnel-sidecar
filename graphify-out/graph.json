@@ -12,6 +12,7 @@
         "language": "bash",
         "kind": "file"
       },
+      "_origin": "ast",
       "id": "start_tunnel",
       "community": 6,
       "norm_label": "start-tunnel.sh"
@@ -25,6 +26,7 @@
         "language": "bash",
         "kind": "bash_entrypoint"
       },
+      "_origin": "ast",
       "id": "home_runner_work_ssh_tunnel_sidecar_ssh_tunnel_sidecar_start_tunnel_sh__entry",
       "community": 6,
       "norm_label": "start-tunnel.sh script"
@@ -38,6 +40,7 @@
         "language": "bash",
         "kind": "code"
       },
+      "_origin": "ast",
       "id": "start_tunnel_sshpass",
       "community": 6,
       "norm_label": "sshpass"
@@ -47,6 +50,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "claude_orquestrador",
       "community": 11,
       "norm_label": "orquestrador.md"
@@ -56,6 +60,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
       "community": 11,
       "norm_label": "orquestrador - fmunizmcorp/ssh-tunnel-sidecar"
@@ -65,6 +70,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L3",
+      "_origin": "ast",
       "id": "claude_orquestrador_persona",
       "community": 11,
       "norm_label": "persona"
@@ -74,6 +80,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L7",
+      "_origin": "ast",
       "id": "claude_orquestrador_missao",
       "community": 11,
       "norm_label": "missao"
@@ -83,6 +90,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L11",
+      "_origin": "ast",
       "id": "claude_orquestrador_dominio_de_atuacao",
       "community": 11,
       "norm_label": "dominio de atuacao"
@@ -92,6 +100,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L15",
+      "_origin": "ast",
       "id": "claude_orquestrador_stack",
       "community": 11,
       "norm_label": "stack"
@@ -101,6 +110,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L19",
+      "_origin": "ast",
       "id": "claude_orquestrador_criticidade",
       "community": 11,
       "norm_label": "criticidade"
@@ -110,6 +120,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L23",
+      "_origin": "ast",
       "id": "claude_orquestrador_squad_sob_sua_coordenacao",
       "community": 11,
       "norm_label": "squad sob sua coordenacao"
@@ -119,6 +130,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L25",
+      "_origin": "ast",
       "id": "claude_orquestrador_sempre_disponiveis_basais",
       "community": 11,
       "norm_label": "sempre disponiveis (basais)"
@@ -128,6 +140,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L33",
+      "_origin": "ast",
       "id": "claude_orquestrador_especialistas_deste_projeto",
       "community": 11,
       "norm_label": "especialistas deste projeto"
@@ -137,6 +150,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L37",
+      "_origin": "ast",
       "id": "claude_orquestrador_triggers_de_skills_quando_aplicar_cada_uma",
       "community": 11,
       "norm_label": "triggers de skills (quando aplicar cada uma)"
@@ -146,6 +160,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L47",
+      "_origin": "ast",
       "id": "claude_orquestrador_decisoes_que_voce_orquestrador_toma",
       "community": 11,
       "norm_label": "decisoes que voce (orquestrador) toma"
@@ -155,6 +170,7 @@
       "file_type": "document",
       "source_file": ".claude/orquestrador.md",
       "source_location": "L56",
+      "_origin": "ast",
       "id": "claude_orquestrador_decisoes_que_nao_sao_suas",
       "community": 11,
       "norm_label": "decisoes que nao sao suas"
@@ -164,6 +180,7 @@
       "file_type": "document",
       "source_file": ".claude/prompts.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "claude_prompts",
       "community": 10,
       "norm_label": "prompts.md"
@@ -173,6 +190,7 @@
       "file_type": "document",
       "source_file": ".claude/prompts.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
       "community": 10,
       "norm_label": "prompts e templates - fmunizmcorp/ssh-tunnel-sidecar"
@@ -182,6 +200,7 @@
       "file_type": "document",
       "source_file": ".claude/prompts.md",
       "source_location": "L6",
+      "_origin": "ast",
       "id": "claude_prompts_template_1_comeco_de_sessao",
       "community": 10,
       "norm_label": "template 1: comeco de sessao"
@@ -191,6 +210,7 @@
       "file_type": "document",
       "source_file": ".claude/prompts.md",
       "source_location": "L17",
+      "_origin": "ast",
       "id": "claude_prompts_template_2_implementacao_de_feature",
       "community": 10,
       "norm_label": "template 2: implementacao de feature"
@@ -200,6 +220,7 @@
       "file_type": "document",
       "source_file": ".claude/prompts.md",
       "source_location": "L34",
+      "_origin": "ast",
       "id": "claude_prompts_template_3_bug_fix",
       "community": 10,
       "norm_label": "template 3: bug fix"
@@ -209,6 +230,7 @@
       "file_type": "document",
       "source_file": ".claude/prompts.md",
       "source_location": "L48",
+      "_origin": "ast",
       "id": "claude_prompts_template_4_auditoria_revisao",
       "community": 10,
       "norm_label": "template 4: auditoria/revisao"
@@ -218,6 +240,7 @@
       "file_type": "document",
       "source_file": ".claude/prompts.md",
       "source_location": "L63",
+      "_origin": "ast",
       "id": "claude_prompts_template_5_deploy_e_validacao",
       "community": 10,
       "norm_label": "template 5: deploy e validacao"
@@ -227,6 +250,7 @@
       "file_type": "document",
       "source_file": ".claude/prompts.md",
       "source_location": "L80",
+      "_origin": "ast",
       "id": "claude_prompts_template_7_atualizacao_de_skills",
       "community": 10,
       "norm_label": "template 7: atualizacao de skills"
@@ -236,6 +260,7 @@
       "file_type": "document",
       "source_file": ".claude/skills.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "claude_skills",
       "community": 12,
       "norm_label": "skills.md"
@@ -245,6 +270,7 @@
       "file_type": "document",
       "source_file": ".claude/skills.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "claude_skills_skills_aplicaveis_shell_outros",
       "community": 12,
       "norm_label": "skills aplicaveis (shell / outros)"
@@ -254,6 +280,7 @@
       "file_type": "document",
       "source_file": ".claude/skills.md",
       "source_location": "L3",
+      "_origin": "ast",
       "id": "claude_skills_basais_sempre",
       "community": 12,
       "norm_label": "basais (sempre)"
@@ -263,6 +290,7 @@
       "file_type": "document",
       "source_file": ".claude/skills.md",
       "source_location": "L10",
+      "_origin": "ast",
       "id": "claude_skills_padroes",
       "community": 12,
       "norm_label": "padroes"
@@ -272,6 +300,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "claude",
       "community": 14,
       "norm_label": "claude.md"
@@ -281,6 +310,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L8",
+      "_origin": "ast",
       "id": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
       "community": 15,
       "norm_label": "atencao claude - leia e obedeca este bloco antes de qualquer outra coisa"
@@ -290,6 +320,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L10",
+      "_origin": "ast",
       "id": "claude_regra_1_o_usuario_e_leigo_nunca_pergunte_sobre_persona_skill_ou_configuracao",
       "community": 15,
       "norm_label": "regra -1 - o usuario e leigo. nunca pergunte sobre persona, skill ou configuracao."
@@ -299,6 +330,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L22",
+      "_origin": "ast",
       "id": "claude_regra_0_voce_e_o_lider_orquestrador_deste_repo_ativo_agora",
       "community": 15,
       "norm_label": "regra 0 - voce e o lider + orquestrador deste repo. ativo. agora."
@@ -308,6 +340,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L41",
+      "_origin": "ast",
       "id": "claude_regra_1_skills_basais_sempre_on_nao_pergunte_nao_escolha",
       "community": 15,
       "norm_label": "regra 1 - skills basais - sempre on. nao pergunte. nao escolha."
@@ -317,6 +350,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L51",
+      "_origin": "ast",
       "id": "claude_regra_2_skills_condicionais_para_repo_de_desenvolvimento",
       "community": 15,
       "norm_label": "regra 2 - skills condicionais para repo de desenvolvimento"
@@ -326,6 +360,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L69",
+      "_origin": "ast",
       "id": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx",
       "community": 15,
       "norm_label": "regra 2.5 - geracao de arquivos (excel, pdf, docx, pptx) - skills xlsx/pdf/docx/pptx"
@@ -335,6 +370,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L81",
+      "_origin": "ast",
       "id": "claude_padroes_brasil_obrigatorios_em_cada_arquivo_gerado",
       "community": 15,
       "norm_label": "padroes brasil obrigatorios em cada arquivo gerado"
@@ -344,6 +380,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L88",
+      "_origin": "ast",
       "id": "claude_fluxo_padrao_quando_o_usuario_pede_arquivo",
       "community": 15,
       "norm_label": "fluxo padrao quando o usuario pede arquivo"
@@ -353,6 +390,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L98",
+      "_origin": "ast",
       "id": "claude_regra_3_protocolo_de_leitura_obrigatorio_toda_mensagem_nova",
       "community": 15,
       "norm_label": "regra 3 - protocolo de leitura obrigatorio (toda mensagem nova)"
@@ -362,6 +400,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L111",
+      "_origin": "ast",
       "id": "claude_regra_4_protocolo_de_fechamento_obrigatorio_toda_sessao_com_mudancas",
       "community": 15,
       "norm_label": "regra 4 - protocolo de fechamento obrigatorio (toda sessao com mudancas)"
@@ -371,6 +410,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L120",
+      "_origin": "ast",
       "id": "claude_regra_5_decisao_do_usuario_sobre_credenciais_ja_documentada",
       "community": 15,
       "norm_label": "regra 5 - decisao do usuario sobre credenciais (ja documentada)"
@@ -380,6 +420,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L124",
+      "_origin": "ast",
       "id": "claude_regra_6_padroes_brasil_obrigatorios",
       "community": 15,
       "norm_label": "regra 6 - padroes brasil obrigatorios"
@@ -389,6 +430,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L158",
+      "_origin": "ast",
       "id": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
       "community": 14,
       "norm_label": "claude.md - fmunizmcorp/ssh-tunnel-sidecar"
@@ -398,6 +440,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L163",
+      "_origin": "ast",
       "id": "claude_zero_protocolo_de_ativacao_executar_sempre_no_inicio_da_conversa",
       "community": 14,
       "norm_label": "zero. protocolo de ativacao (executar sempre no inicio da conversa)"
@@ -407,6 +450,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L178",
+      "_origin": "ast",
       "id": "claude_zero_1_excelencia_total_regras_inegociaveis",
       "community": 14,
       "norm_label": "zero.1 excelencia total (regras inegociaveis)"
@@ -416,6 +460,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L192",
+      "_origin": "ast",
       "id": "claude_1_identidade_do_projeto",
       "community": 14,
       "norm_label": "1. identidade do projeto"
@@ -425,6 +470,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L200",
+      "_origin": "ast",
       "id": "claude_2_seu_papel_orquestrador",
       "community": 14,
       "norm_label": "2. seu papel - orquestrador"
@@ -434,6 +480,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L218",
+      "_origin": "ast",
       "id": "claude_3_squad_de_ias_skills_aplicaveis",
       "community": 14,
       "norm_label": "3. squad de ias (skills aplicaveis)"
@@ -443,6 +490,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L220",
+      "_origin": "ast",
       "id": "claude_skills_basais_sempre_validas_em_qualquer_tarefa",
       "community": 14,
       "norm_label": "skills basais (sempre validas em qualquer tarefa)"
@@ -452,6 +500,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L228",
+      "_origin": "ast",
       "id": "claude_skills_especificas_deste_projeto",
       "community": 14,
       "norm_label": "skills especificas deste projeto"
@@ -461,6 +510,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L232",
+      "_origin": "ast",
       "id": "claude_quando_usar_cada_skill",
       "community": 14,
       "norm_label": "quando usar cada skill"
@@ -470,6 +520,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L236",
+      "_origin": "ast",
       "id": "claude_4_metodologia_de_trabalho",
       "community": 14,
       "norm_label": "4. metodologia de trabalho"
@@ -479,6 +530,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L238",
+      "_origin": "ast",
       "id": "claude_fluxo_padrao_para_qualquer_tarefa",
       "community": 14,
       "norm_label": "fluxo padrao para qualquer tarefa"
@@ -488,6 +540,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L274",
+      "_origin": "ast",
       "id": "claude_padroes_obrigatorios",
       "community": 14,
       "norm_label": "padroes obrigatorios"
@@ -497,6 +550,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L284",
+      "_origin": "ast",
       "id": "claude_5_conhecimento_especifico_do_projeto",
       "community": 14,
       "norm_label": "5. conhecimento especifico do projeto"
@@ -506,6 +560,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L286",
+      "_origin": "ast",
       "id": "claude_sumario_do_readme",
       "community": 14,
       "norm_label": "sumario do readme"
@@ -515,6 +570,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L288",
+      "_origin": "ast",
       "id": "claude_ssh_tunnel_sidecar",
       "community": 7,
       "norm_label": "ssh tunnel sidecar"
@@ -524,6 +580,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L292",
+      "_origin": "ast",
       "id": "claude_problema_que_resolve",
       "community": 7,
       "norm_label": "problema que resolve"
@@ -533,6 +590,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L296",
+      "_origin": "ast",
       "id": "claude_arquitetura",
       "community": 7,
       "norm_label": "arquitetura"
@@ -542,6 +600,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L310",
+      "_origin": "ast",
       "id": "claude_como_usar_no_easypanel",
       "community": 7,
       "norm_label": "como usar no easypanel"
@@ -551,6 +610,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L312",
+      "_origin": "ast",
       "id": "claude_1_criar_novo_projeto_no_easypanel",
       "community": 7,
       "norm_label": "1. criar novo projeto no easypanel"
@@ -560,6 +620,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L319",
+      "_origin": "ast",
       "id": "claude_2_configurar_variveis_de_ambiente",
       "community": 7,
       "norm_label": "2. configurar variveis de ambiente"
@@ -569,6 +630,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L330",
+      "_origin": "ast",
       "id": "claude_3_configurar_networking",
       "community": 7,
       "norm_label": "3. configurar networking"
@@ -578,6 +640,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L335",
+      "_origin": "ast",
       "id": "claude_4_configurar_o_uscall_scraper",
       "community": 7,
       "norm_label": "4. configurar o uscall-scraper"
@@ -587,6 +650,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L350",
+      "_origin": "ast",
       "id": "claude_validao",
       "community": 7,
       "norm_label": "validao"
@@ -596,6 +660,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L356",
+      "_origin": "ast",
       "id": "claude_7_estrutura_do_repo",
       "community": 7,
       "norm_label": "7. estrutura do repo"
@@ -605,6 +670,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L358",
+      "_origin": "ast",
       "id": "claude_diretorios_principais",
       "community": 7,
       "norm_label": "diretorios principais"
@@ -614,6 +680,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L365",
+      "_origin": "ast",
       "id": "claude_arquivos_da_raiz_amostra",
       "community": 7,
       "norm_label": "arquivos da raiz (amostra)"
@@ -623,6 +690,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L376",
+      "_origin": "ast",
       "id": "claude_9_aprendizado_e_atualizacao_continua",
       "community": 7,
       "norm_label": "9. aprendizado e atualizacao continua"
@@ -632,6 +700,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L378",
+      "_origin": "ast",
       "id": "claude_regra_de_ouro_sempre_atualize_o_conhecimento_do_projeto",
       "community": 7,
       "norm_label": "regra de ouro: sempre atualize o conhecimento do projeto"
@@ -641,6 +710,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L404",
+      "_origin": "ast",
       "id": "claude_triggers_para_regenerar_grafo",
       "community": 7,
       "norm_label": "triggers para regenerar grafo"
@@ -650,6 +720,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L414",
+      "_origin": "ast",
       "id": "claude_10_checklist_de_entrega_obrigatorio",
       "community": 7,
       "norm_label": "10. checklist de entrega obrigatorio"
@@ -659,6 +730,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L418",
+      "_origin": "ast",
       "id": "claude_codigo",
       "community": 7,
       "norm_label": "codigo"
@@ -668,6 +740,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L426",
+      "_origin": "ast",
       "id": "claude_testes",
       "community": 7,
       "norm_label": "testes"
@@ -677,6 +750,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L434",
+      "_origin": "ast",
       "id": "claude_documentacao",
       "community": 7,
       "norm_label": "documentacao"
@@ -686,6 +760,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L442",
+      "_origin": "ast",
       "id": "claude_deploy",
       "community": 7,
       "norm_label": "deploy"
@@ -695,6 +770,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L450",
+      "_origin": "ast",
       "id": "claude_sinalizar_conclusao",
       "community": 7,
       "norm_label": "sinalizar conclusao"
@@ -704,6 +780,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L456",
+      "_origin": "ast",
       "id": "claude_11_referencias_rapidas",
       "community": 7,
       "norm_label": "11. referencias rapidas"
@@ -713,6 +790,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "readme",
       "community": 13,
       "norm_label": "readme.md"
@@ -722,6 +800,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "readme_ssh_tunnel_sidecar",
       "community": 13,
       "norm_label": "\ud83d\udd17 ssh tunnel sidecar"
@@ -731,6 +810,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L5",
+      "_origin": "ast",
       "id": "readme_problema_que_resolve",
       "community": 13,
       "norm_label": "\ud83c\udfaf problema que resolve"
@@ -740,6 +820,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L9",
+      "_origin": "ast",
       "id": "readme_arquitetura",
       "community": 13,
       "norm_label": "\ud83c\udfd7\ufe0f arquitetura"
@@ -749,6 +830,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L23",
+      "_origin": "ast",
       "id": "readme_como_usar_no_easypanel",
       "community": 13,
       "norm_label": "\ud83d\ude80 como usar no easypanel"
@@ -758,6 +840,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L25",
+      "_origin": "ast",
       "id": "readme_1_criar_novo_projeto_no_easypanel",
       "community": 13,
       "norm_label": "1. criar novo projeto no easypanel"
@@ -767,6 +850,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L32",
+      "_origin": "ast",
       "id": "readme_2_configurar_vari\u00e1veis_de_ambiente",
       "community": 13,
       "norm_label": "2. configurar variaveis de ambiente"
@@ -776,6 +860,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L43",
+      "_origin": "ast",
       "id": "readme_3_configurar_networking",
       "community": 13,
       "norm_label": "3. configurar networking"
@@ -785,6 +870,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L48",
+      "_origin": "ast",
       "id": "readme_4_configurar_o_uscall_scraper",
       "community": 13,
       "norm_label": "4. configurar o uscall-scraper"
@@ -794,6 +880,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L63",
+      "_origin": "ast",
       "id": "readme_valida\u00e7\u00e3o",
       "community": 13,
       "norm_label": "\u2705 validacao"
@@ -803,6 +890,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L84",
+      "_origin": "ast",
       "id": "readme_testar_do_uscall_scraper",
       "community": 13,
       "norm_label": "\ud83e\uddea testar do uscall-scraper"
@@ -812,6 +900,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L91",
+      "_origin": "ast",
       "id": "readme_troubleshooting",
       "community": 13,
       "norm_label": "\ud83d\udd27 troubleshooting"
@@ -821,6 +910,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L93",
+      "_origin": "ast",
       "id": "readme_t\u00fanel_desconecta",
       "community": 13,
       "norm_label": "tunel desconecta"
@@ -830,6 +920,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L97",
+      "_origin": "ast",
       "id": "readme_connection_refused",
       "community": 13,
       "norm_label": "\"connection refused\""
@@ -839,6 +930,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L102",
+      "_origin": "ast",
       "id": "readme_permission_denied",
       "community": 13,
       "norm_label": "\"permission denied\""
@@ -848,6 +940,7 @@
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L107",
+      "_origin": "ast",
       "id": "readme_commits",
       "community": 13,
       "norm_label": "\ud83d\udcdd commits"
@@ -857,6 +950,7 @@
       "file_type": "document",
       "source_file": "docs/APRENDIZADOS.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "docs_aprendizados",
       "community": 8,
       "norm_label": "aprendizados.md"
@@ -866,6 +960,7 @@
       "file_type": "document",
       "source_file": "docs/APRENDIZADOS.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "docs_aprendizados_aprendizados_fmunizmcorp_ssh_tunnel_sidecar",
       "community": 8,
       "norm_label": "aprendizados - fmunizmcorp/ssh-tunnel-sidecar"
@@ -875,6 +970,7 @@
       "file_type": "document",
       "source_file": "docs/APRENDIZADOS.md",
       "source_location": "L7",
+      "_origin": "ast",
       "id": "docs_aprendizados_como_usar",
       "community": 8,
       "norm_label": "como usar"
@@ -884,6 +980,7 @@
       "file_type": "document",
       "source_file": "docs/APRENDIZADOS.md",
       "source_location": "L13",
+      "_origin": "ast",
       "id": "docs_aprendizados_aprendizados",
       "community": 8,
       "norm_label": "aprendizados"
@@ -893,6 +990,7 @@
       "file_type": "document",
       "source_file": "docs/APRENDIZADOS.md",
       "source_location": "L17",
+      "_origin": "ast",
       "id": "docs_aprendizados_yyyy_mm_dd_titulo_do_aprendizado_categoria",
       "community": 8,
       "norm_label": "yyyy-mm-dd - titulo do aprendizado [#categoria]"
@@ -902,6 +1000,7 @@
       "file_type": "document",
       "source_file": "docs/HISTORICO.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "docs_historico",
       "community": 9,
       "norm_label": "historico.md"
@@ -911,6 +1010,7 @@
       "file_type": "document",
       "source_file": "docs/HISTORICO.md",
       "source_location": "L1",
+      "_origin": "ast",
       "id": "docs_historico_historico_de_sessoes_fmunizmcorp_ssh_tunnel_sidecar",
       "community": 9,
       "norm_label": "historico de sessoes - fmunizmcorp/ssh-tunnel-sidecar"
@@ -920,6 +1020,7 @@
       "file_type": "document",
       "source_file": "docs/HISTORICO.md",
       "source_location": "L5",
+      "_origin": "ast",
       "id": "docs_historico_como_usar",
       "community": 9,
       "norm_label": "como usar"
@@ -929,6 +1030,7 @@
       "file_type": "document",
       "source_file": "docs/HISTORICO.md",
       "source_location": "L10",
+      "_origin": "ast",
       "id": "docs_historico_historico",
       "community": 9,
       "norm_label": "historico"
@@ -938,6 +1040,7 @@
       "file_type": "document",
       "source_file": "docs/HISTORICO.md",
       "source_location": "L14",
+      "_origin": "ast",
       "id": "docs_historico_yyyy_mm_dd_vx_y_z_titulo_da_sessao",
       "community": 9,
       "norm_label": "yyyy-mm-dd - vx.y.z - titulo da sessao"
@@ -1777,9 +1880,9 @@
       "source_file": "start-tunnel.sh",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "start_tunnel",
-      "target": "home_runner_work_ssh_tunnel_sidecar_ssh_tunnel_sidecar_start_tunnel_sh__entry",
-      "confidence_score": 1.0
+      "target": "home_runner_work_ssh_tunnel_sidecar_ssh_tunnel_sidecar_start_tunnel_sh__entry"
     },
     {
       "relation": "defines",
@@ -1787,9 +1890,9 @@
       "source_file": "start-tunnel.sh",
       "source_location": "L35",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "start_tunnel",
-      "target": "start_tunnel_sshpass",
-      "confidence_score": 1.0
+      "target": "start_tunnel_sshpass"
     },
     {
       "relation": "contains",
@@ -1807,9 +1910,9 @@
       "source_file": ".claude/orquestrador.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_orquestrador",
-      "target": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "confidence_score": 1.0
+      "target": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar"
     },
     {
       "relation": "contains",
@@ -1937,9 +2040,9 @@
       "source_file": ".claude/prompts.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_prompts",
-      "target": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
-      "confidence_score": 1.0
+      "target": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar"
     },
     {
       "relation": "contains",
@@ -2077,9 +2180,9 @@
       "source_file": ".claude/skills.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_skills",
-      "target": "claude_skills_skills_aplicaveis_shell_outros",
-      "confidence_score": 1.0
+      "target": "claude_skills_skills_aplicaveis_shell_outros"
     },
     {
       "relation": "contains",
@@ -2117,9 +2220,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "confidence_score": 1.0
+      "target": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa"
     },
     {
       "relation": "contains",
@@ -2127,9 +2230,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L158",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "confidence_score": 1.0
+      "target": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar"
     },
     {
       "relation": "contains",
@@ -2137,9 +2240,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L288",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_ssh_tunnel_sidecar",
-      "confidence_score": 1.0
+      "target": "claude_ssh_tunnel_sidecar"
     },
     {
       "relation": "contains",
@@ -2147,9 +2250,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_0_voce_e_o_lider_orquestrador_deste_repo_ativo_agora",
-      "confidence_score": 1.0
+      "target": "claude_regra_0_voce_e_o_lider_orquestrador_deste_repo_ativo_agora"
     },
     {
       "relation": "contains",
@@ -2157,9 +2260,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_1_o_usuario_e_leigo_nunca_pergunte_sobre_persona_skill_ou_configuracao",
-      "confidence_score": 1.0
+      "target": "claude_regra_1_o_usuario_e_leigo_nunca_pergunte_sobre_persona_skill_ou_configuracao"
     },
     {
       "relation": "contains",
@@ -2167,9 +2270,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L41",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_1_skills_basais_sempre_on_nao_pergunte_nao_escolha",
-      "confidence_score": 1.0
+      "target": "claude_regra_1_skills_basais_sempre_on_nao_pergunte_nao_escolha"
     },
     {
       "relation": "contains",
@@ -2177,9 +2280,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L69",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx",
-      "confidence_score": 1.0
+      "target": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx"
     },
     {
       "relation": "contains",
@@ -2187,9 +2290,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L51",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_2_skills_condicionais_para_repo_de_desenvolvimento",
-      "confidence_score": 1.0
+      "target": "claude_regra_2_skills_condicionais_para_repo_de_desenvolvimento"
     },
     {
       "relation": "contains",
@@ -2197,9 +2300,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L98",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_3_protocolo_de_leitura_obrigatorio_toda_mensagem_nova",
-      "confidence_score": 1.0
+      "target": "claude_regra_3_protocolo_de_leitura_obrigatorio_toda_mensagem_nova"
     },
     {
       "relation": "contains",
@@ -2207,9 +2310,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L111",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_4_protocolo_de_fechamento_obrigatorio_toda_sessao_com_mudancas",
-      "confidence_score": 1.0
+      "target": "claude_regra_4_protocolo_de_fechamento_obrigatorio_toda_sessao_com_mudancas"
     },
     {
       "relation": "contains",
@@ -2217,9 +2320,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L120",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_5_decisao_do_usuario_sobre_credenciais_ja_documentada",
-      "confidence_score": 1.0
+      "target": "claude_regra_5_decisao_do_usuario_sobre_credenciais_ja_documentada"
     },
     {
       "relation": "contains",
@@ -2227,9 +2330,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L124",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_6_padroes_brasil_obrigatorios",
-      "confidence_score": 1.0
+      "target": "claude_regra_6_padroes_brasil_obrigatorios"
     },
     {
       "relation": "contains",
@@ -2237,9 +2340,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L88",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx",
-      "target": "claude_fluxo_padrao_quando_o_usuario_pede_arquivo",
-      "confidence_score": 1.0
+      "target": "claude_fluxo_padrao_quando_o_usuario_pede_arquivo"
     },
     {
       "relation": "contains",
@@ -2247,9 +2350,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L81",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx",
-      "target": "claude_padroes_brasil_obrigatorios_em_cada_arquivo_gerado",
-      "confidence_score": 1.0
+      "target": "claude_padroes_brasil_obrigatorios_em_cada_arquivo_gerado"
     },
     {
       "relation": "contains",
@@ -2257,9 +2360,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L192",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_1_identidade_do_projeto",
-      "confidence_score": 1.0
+      "target": "claude_1_identidade_do_projeto"
     },
     {
       "relation": "contains",
@@ -2267,9 +2370,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L200",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_2_seu_papel_orquestrador",
-      "confidence_score": 1.0
+      "target": "claude_2_seu_papel_orquestrador"
     },
     {
       "relation": "contains",
@@ -2277,9 +2380,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L218",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_3_squad_de_ias_skills_aplicaveis",
-      "confidence_score": 1.0
+      "target": "claude_3_squad_de_ias_skills_aplicaveis"
     },
     {
       "relation": "contains",
@@ -2287,9 +2390,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L236",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_4_metodologia_de_trabalho",
-      "confidence_score": 1.0
+      "target": "claude_4_metodologia_de_trabalho"
     },
     {
       "relation": "contains",
@@ -2297,9 +2400,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L284",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_5_conhecimento_especifico_do_projeto",
-      "confidence_score": 1.0
+      "target": "claude_5_conhecimento_especifico_do_projeto"
     },
     {
       "relation": "contains",
@@ -2307,9 +2410,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L178",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_zero_1_excelencia_total_regras_inegociaveis",
-      "confidence_score": 1.0
+      "target": "claude_zero_1_excelencia_total_regras_inegociaveis"
     },
     {
       "relation": "contains",
@@ -2317,9 +2420,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L163",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_zero_protocolo_de_ativacao_executar_sempre_no_inicio_da_conversa",
-      "confidence_score": 1.0
+      "target": "claude_zero_protocolo_de_ativacao_executar_sempre_no_inicio_da_conversa"
     },
     {
       "relation": "contains",
@@ -2327,9 +2430,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L232",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_3_squad_de_ias_skills_aplicaveis",
-      "target": "claude_quando_usar_cada_skill",
-      "confidence_score": 1.0
+      "target": "claude_quando_usar_cada_skill"
     },
     {
       "relation": "contains",
@@ -2337,9 +2440,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L220",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_3_squad_de_ias_skills_aplicaveis",
-      "target": "claude_skills_basais_sempre_validas_em_qualquer_tarefa",
-      "confidence_score": 1.0
+      "target": "claude_skills_basais_sempre_validas_em_qualquer_tarefa"
     },
     {
       "relation": "contains",
@@ -2347,9 +2450,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L228",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_3_squad_de_ias_skills_aplicaveis",
-      "target": "claude_skills_especificas_deste_projeto",
-      "confidence_score": 1.0
+      "target": "claude_skills_especificas_deste_projeto"
     },
     {
       "relation": "contains",
@@ -2357,9 +2460,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L238",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_4_metodologia_de_trabalho",
-      "target": "claude_fluxo_padrao_para_qualquer_tarefa",
-      "confidence_score": 1.0
+      "target": "claude_fluxo_padrao_para_qualquer_tarefa"
     },
     {
       "relation": "contains",
@@ -2367,9 +2470,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L274",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_4_metodologia_de_trabalho",
-      "target": "claude_padroes_obrigatorios",
-      "confidence_score": 1.0
+      "target": "claude_padroes_obrigatorios"
     },
     {
       "relation": "contains",
@@ -2377,9 +2480,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L286",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_5_conhecimento_especifico_do_projeto",
-      "target": "claude_sumario_do_readme",
-      "confidence_score": 1.0
+      "target": "claude_sumario_do_readme"
     },
     {
       "relation": "contains",
@@ -2387,9 +2490,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L414",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_10_checklist_de_entrega_obrigatorio",
-      "confidence_score": 1.0
+      "target": "claude_10_checklist_de_entrega_obrigatorio"
     },
     {
       "relation": "contains",
@@ -2397,9 +2500,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L456",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_11_referencias_rapidas",
-      "confidence_score": 1.0
+      "target": "claude_11_referencias_rapidas"
     },
     {
       "relation": "contains",
@@ -2407,9 +2510,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L356",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_7_estrutura_do_repo",
-      "confidence_score": 1.0
+      "target": "claude_7_estrutura_do_repo"
     },
     {
       "relation": "contains",
@@ -2417,9 +2520,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L376",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_9_aprendizado_e_atualizacao_continua",
-      "confidence_score": 1.0
+      "target": "claude_9_aprendizado_e_atualizacao_continua"
     },
     {
       "relation": "contains",
@@ -2427,9 +2530,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L296",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_arquitetura",
-      "confidence_score": 1.0
+      "target": "claude_arquitetura"
     },
     {
       "relation": "contains",
@@ -2437,9 +2540,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L310",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_como_usar_no_easypanel",
-      "confidence_score": 1.0
+      "target": "claude_como_usar_no_easypanel"
     },
     {
       "relation": "contains",
@@ -2447,9 +2550,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L292",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_problema_que_resolve",
-      "confidence_score": 1.0
+      "target": "claude_problema_que_resolve"
     },
     {
       "relation": "contains",
@@ -2457,9 +2560,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L350",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_validao",
-      "confidence_score": 1.0
+      "target": "claude_validao"
     },
     {
       "relation": "contains",
@@ -2467,9 +2570,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L312",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_como_usar_no_easypanel",
-      "target": "claude_1_criar_novo_projeto_no_easypanel",
-      "confidence_score": 1.0
+      "target": "claude_1_criar_novo_projeto_no_easypanel"
     },
     {
       "relation": "contains",
@@ -2477,9 +2580,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L319",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_como_usar_no_easypanel",
-      "target": "claude_2_configurar_variveis_de_ambiente",
-      "confidence_score": 1.0
+      "target": "claude_2_configurar_variveis_de_ambiente"
     },
     {
       "relation": "contains",
@@ -2487,9 +2590,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L330",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_como_usar_no_easypanel",
-      "target": "claude_3_configurar_networking",
-      "confidence_score": 1.0
+      "target": "claude_3_configurar_networking"
     },
     {
       "relation": "contains",
@@ -2497,9 +2600,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L335",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_como_usar_no_easypanel",
-      "target": "claude_4_configurar_o_uscall_scraper",
-      "confidence_score": 1.0
+      "target": "claude_4_configurar_o_uscall_scraper"
     },
     {
       "relation": "contains",
@@ -2507,9 +2610,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L365",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_7_estrutura_do_repo",
-      "target": "claude_arquivos_da_raiz_amostra",
-      "confidence_score": 1.0
+      "target": "claude_arquivos_da_raiz_amostra"
     },
     {
       "relation": "contains",
@@ -2517,9 +2620,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L358",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_7_estrutura_do_repo",
-      "target": "claude_diretorios_principais",
-      "confidence_score": 1.0
+      "target": "claude_diretorios_principais"
     },
     {
       "relation": "contains",
@@ -2527,9 +2630,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L378",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_9_aprendizado_e_atualizacao_continua",
-      "target": "claude_regra_de_ouro_sempre_atualize_o_conhecimento_do_projeto",
-      "confidence_score": 1.0
+      "target": "claude_regra_de_ouro_sempre_atualize_o_conhecimento_do_projeto"
     },
     {
       "relation": "contains",
@@ -2537,9 +2640,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L404",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_9_aprendizado_e_atualizacao_continua",
-      "target": "claude_triggers_para_regenerar_grafo",
-      "confidence_score": 1.0
+      "target": "claude_triggers_para_regenerar_grafo"
     },
     {
       "relation": "contains",
@@ -2547,9 +2650,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L418",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_codigo",
-      "confidence_score": 1.0
+      "target": "claude_codigo"
     },
     {
       "relation": "contains",
@@ -2557,9 +2660,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L442",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_deploy",
-      "confidence_score": 1.0
+      "target": "claude_deploy"
     },
     {
       "relation": "contains",
@@ -2567,9 +2670,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L434",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_documentacao",
-      "confidence_score": 1.0
+      "target": "claude_documentacao"
     },
     {
       "relation": "contains",
@@ -2577,9 +2680,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L450",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_sinalizar_conclusao",
-      "confidence_score": 1.0
+      "target": "claude_sinalizar_conclusao"
     },
     {
       "relation": "contains",
@@ -2587,9 +2690,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L426",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_testes",
-      "confidence_score": 1.0
+      "target": "claude_testes"
     },
     {
       "relation": "contains",
@@ -2597,9 +2700,9 @@
       "source_file": "README.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme",
-      "target": "readme_ssh_tunnel_sidecar",
-      "confidence_score": 1.0
+      "target": "readme_ssh_tunnel_sidecar"
     },
     {
       "relation": "contains",
@@ -2607,9 +2710,9 @@
       "source_file": "README.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_arquitetura",
-      "confidence_score": 1.0
+      "target": "readme_arquitetura"
     },
     {
       "relation": "contains",
@@ -2617,9 +2720,9 @@
       "source_file": "README.md",
       "source_location": "L107",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_commits",
-      "confidence_score": 1.0
+      "target": "readme_commits"
     },
     {
       "relation": "contains",
@@ -2627,9 +2730,9 @@
       "source_file": "README.md",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_como_usar_no_easypanel",
-      "confidence_score": 1.0
+      "target": "readme_como_usar_no_easypanel"
     },
     {
       "relation": "contains",
@@ -2637,9 +2740,9 @@
       "source_file": "README.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_problema_que_resolve",
-      "confidence_score": 1.0
+      "target": "readme_problema_que_resolve"
     },
     {
       "relation": "contains",
@@ -2647,9 +2750,9 @@
       "source_file": "README.md",
       "source_location": "L84",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_testar_do_uscall_scraper",
-      "confidence_score": 1.0
+      "target": "readme_testar_do_uscall_scraper"
     },
     {
       "relation": "contains",
@@ -2657,9 +2760,9 @@
       "source_file": "README.md",
       "source_location": "L91",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_troubleshooting",
-      "confidence_score": 1.0
+      "target": "readme_troubleshooting"
     },
     {
       "relation": "contains",
@@ -2667,9 +2770,9 @@
       "source_file": "README.md",
       "source_location": "L63",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_valida\u00e7\u00e3o",
-      "confidence_score": 1.0
+      "target": "readme_valida\u00e7\u00e3o"
     },
     {
       "relation": "contains",
@@ -2677,9 +2780,9 @@
       "source_file": "README.md",
       "source_location": "L25",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_como_usar_no_easypanel",
-      "target": "readme_1_criar_novo_projeto_no_easypanel",
-      "confidence_score": 1.0
+      "target": "readme_1_criar_novo_projeto_no_easypanel"
     },
     {
       "relation": "contains",
@@ -2687,9 +2790,9 @@
       "source_file": "README.md",
       "source_location": "L32",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_como_usar_no_easypanel",
-      "target": "readme_2_configurar_vari\u00e1veis_de_ambiente",
-      "confidence_score": 1.0
+      "target": "readme_2_configurar_vari\u00e1veis_de_ambiente"
     },
     {
       "relation": "contains",
@@ -2697,9 +2800,9 @@
       "source_file": "README.md",
       "source_location": "L43",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_como_usar_no_easypanel",
-      "target": "readme_3_configurar_networking",
-      "confidence_score": 1.0
+      "target": "readme_3_configurar_networking"
     },
     {
       "relation": "contains",
@@ -2707,9 +2810,9 @@
       "source_file": "README.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_como_usar_no_easypanel",
-      "target": "readme_4_configurar_o_uscall_scraper",
-      "confidence_score": 1.0
+      "target": "readme_4_configurar_o_uscall_scraper"
     },
     {
       "relation": "contains",
@@ -2717,9 +2820,9 @@
       "source_file": "README.md",
       "source_location": "L97",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_troubleshooting",
-      "target": "readme_connection_refused",
-      "confidence_score": 1.0
+      "target": "readme_connection_refused"
     },
     {
       "relation": "contains",
@@ -2727,9 +2830,9 @@
       "source_file": "README.md",
       "source_location": "L102",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_troubleshooting",
-      "target": "readme_permission_denied",
-      "confidence_score": 1.0
+      "target": "readme_permission_denied"
     },
     {
       "relation": "contains",
@@ -2737,9 +2840,9 @@
       "source_file": "README.md",
       "source_location": "L93",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_troubleshooting",
-      "target": "readme_t\u00fanel_desconecta",
-      "confidence_score": 1.0
+      "target": "readme_t\u00fanel_desconecta"
     },
     {
       "relation": "contains",
@@ -2747,9 +2850,9 @@
       "source_file": "docs/APRENDIZADOS.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_aprendizados",
-      "target": "docs_aprendizados_aprendizados_fmunizmcorp_ssh_tunnel_sidecar",
-      "confidence_score": 1.0
+      "target": "docs_aprendizados_aprendizados_fmunizmcorp_ssh_tunnel_sidecar"
     },
     {
       "relation": "contains",
@@ -2797,9 +2900,9 @@
       "source_file": "docs/HISTORICO.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_historico",
-      "target": "docs_historico_historico_de_sessoes_fmunizmcorp_ssh_tunnel_sidecar",
-      "confidence_score": 1.0
+      "target": "docs_historico_historico_de_sessoes_fmunizmcorp_ssh_tunnel_sidecar"
     },
     {
       "relation": "contains",
@@ -3633,5 +3736,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "e857131ef334db3aee049ebcaef51ef76ccb088b"
+  "built_at_commit": "1ac68ca1c9fd3fcfd366ca5865de548384ebbccf"
 }
