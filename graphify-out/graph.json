@@ -1118,15 +1118,6 @@
       "id": "ssh_tunnel_sidecar_readme_codeblock_3"
     },
     {
-      "label": "\u2705 Valida\u00e7\u00e3o",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L63",
-      "community": 13,
-      "norm_label": "\u2705 validacao",
-      "id": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o"
-    },
-    {
       "label": "code:block4 (\ud83d\ude80 Iniciando SSH Tunnel Sidecar...)",
       "file_type": "document",
       "source_file": "README.md",
@@ -1143,15 +1134,6 @@
       "community": 13,
       "norm_label": "code:bash (# dentro do container uscall-scraper:)",
       "id": "ssh_tunnel_sidecar_readme_codeblock_5"
-    },
-    {
-      "label": "T\u00fanel desconecta",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L93",
-      "community": 13,
-      "norm_label": "tunel desconecta",
-      "id": "ssh_tunnel_sidecar_readme_t\u00fanel_desconecta"
     },
     {
       "label": "code:block1 (Trabalhando em fmunizmcorp/ssh-tunnel-sidecar. Como Engenhei)",
@@ -1206,15 +1188,6 @@
       "community": 10,
       "norm_label": "code:block6 (descobri novo padrao em fmunizmcorp/ssh-tunnel-sidecar que v)",
       "id": "claude_prompts_codeblock_6"
-    },
-    {
-      "label": "2. Configurar vari\u00e1veis de ambiente",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L32",
-      "community": 4,
-      "norm_label": "2. configurar variaveis de ambiente",
-      "id": "ssh_tunnel_sidecar_readme_2_configurar_vari_veis_de_ambiente"
     }
   ],
   "links": [
@@ -2132,16 +2105,6 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L63",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_ssh_tunnel_sidecar",
-      "target": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
       "source_location": "L11",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -2187,16 +2150,6 @@
       "confidence_score": 1.0,
       "source": "readme_como_usar_no_easypanel",
       "target": "readme_4_configurar_o_uscall_scraper"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L32",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_como_usar_no_easypanel",
-      "target": "ssh_tunnel_sidecar_readme_2_configurar_vari_veis_de_ambiente"
     },
     {
       "relation": "contains",
@@ -2267,16 +2220,6 @@
       "confidence_score": 1.0,
       "source": "readme_troubleshooting",
       "target": "readme_t\u00fanel_desconecta"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L93",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_troubleshooting",
-      "target": "ssh_tunnel_sidecar_readme_t\u00fanel_desconecta"
     },
     {
       "relation": "contains",
@@ -2357,28 +2300,8 @@
       "confidence_score": 1.0,
       "source": "docs_historico_historico",
       "target": "docs_historico_yyyy_mm_dd_vx_y_z_titulo_da_sessao"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L34",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "ssh_tunnel_sidecar_readme_2_configurar_vari_veis_de_ambiente",
-      "target": "ssh_tunnel_sidecar_readme_codeblock_2"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L67",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "ssh_tunnel_sidecar_readme_valida\u00e7\u00e3o",
-      "target": "ssh_tunnel_sidecar_readme_codeblock_4"
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4a69302d85f68dacf55835019e01ad9045477fa0"
+  "built_at_commit": "2f5276105449c5d7151198961428dcb55558da7e"
 }

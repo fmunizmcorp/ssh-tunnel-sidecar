@@ -1,16 +1,16 @@
-# Graph Report - ssh-tunnel-sidecar  (2026-06-25)
+# Graph Report - ssh-tunnel-sidecar  (2026-06-26)
 
 ## Corpus Check
 - 8 files · ~4,113 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 122 nodes · 116 edges · 13 communities (12 shown, 1 thin omitted)
+- 119 nodes · 111 edges · 13 communities (12 shown, 1 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `4a69302d`
+- Built from commit: `2f527610`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -33,13 +33,13 @@
 1. `Orquestrador - fmunizmcorp/ssh-tunnel-sidecar` - 10 edges
 2. `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` - 10 edges
 3. `SSH Tunnel Sidecar` - 9 edges
-4. `🔗 SSH Tunnel Sidecar` - 9 edges
-5. `CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar` - 8 edges
+4. `CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar` - 8 edges
+5. `🔗 SSH Tunnel Sidecar` - 8 edges
 6. `Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar` - 7 edges
 7. `10. CHECKLIST DE ENTREGA OBRIGATORIO` - 6 edges
-8. `🚀 Como Usar no EasyPanel` - 6 edges
-9. `Como Usar no EasyPanel` - 5 edges
-10. `🔧 Troubleshooting` - 5 edges
+8. `Como Usar no EasyPanel` - 5 edges
+9. `🚀 Como Usar no EasyPanel` - 5 edges
+10. `3. SQUAD DE IAs (skills aplicaveis)` - 4 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
@@ -55,7 +55,7 @@ Nodes (5): 7. ESTRUTURA DO REPO, Arquivos da raiz (amostra), Diretorios principa
 
 ### Community 4 - "Community 4"
 Cohesion: 0.29
-Nodes (8): 1. Criar novo projeto no EasyPanel, 2. Configurar variáveis de ambiente, 3. Configurar networking, 4. Configurar o uscall-scraper, 🚀 Como Usar no EasyPanel, 2. Configurar variáveis de ambiente, code:bash (SSH_HOST=192.168.192.164), code:bash (# REMOVER ESTAS (não funciona em rede bridge):)
+Nodes (7): 1. Criar novo projeto no EasyPanel, 2. Configurar variáveis de ambiente, 3. Configurar networking, 4. Configurar o uscall-scraper, 🚀 Como Usar no EasyPanel, code:bash (SSH_HOST=192.168.192.164), code:bash (# REMOVER ESTAS (não funciona em rede bridge):)
 
 ### Community 5 - "Community 5"
 Cohesion: 0.29
@@ -86,8 +86,8 @@ Cohesion: 0.50
 Nodes (3): Basais (sempre), Padroes, Skills aplicaveis (Shell / Outros)
 
 ### Community 13 - "Community 13"
-Cohesion: 0.13
-Nodes (15): 🏗️ Arquitetura, 📝 Commits, "Connection refused", "Permission denied", 🎯 Problema que Resolve, 🔗 SSH Tunnel Sidecar, 🧪 Testar do uscall-scraper, 🔧 Troubleshooting (+7 more)
+Cohesion: 0.14
+Nodes (13): 🏗️ Arquitetura, 📝 Commits, "Connection refused", "Permission denied", 🎯 Problema que Resolve, 🔗 SSH Tunnel Sidecar, 🧪 Testar do uscall-scraper, 🔧 Troubleshooting (+5 more)
 
 ### Community 14 - "Community 14"
 Cohesion: 0.13
@@ -98,7 +98,7 @@ Cohesion: 0.17
 Nodes (12): ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA, Fluxo padrao quando o usuario pede arquivo, Padroes Brasil obrigatorios em cada arquivo gerado, REGRA 0 - VOCE E O LIDER + ORQUESTRADOR DESTE REPO. ATIVO. AGORA., REGRA -1 - O USUARIO E LEIGO. NUNCA PERGUNTE SOBRE PERSONA, SKILL OU CONFIGURACAO., REGRA 1 - SKILLS BASAIS - SEMPRE ON. NAO PERGUNTE. NAO ESCOLHA., REGRA 2.5 - GERACAO DE ARQUIVOS (Excel, PDF, DOCX, PPTX) - SKILLS XLSX/PDF/DOCX/PPTX, REGRA 2 - SKILLS CONDICIONAIS PARA REPO DE DESENVOLVIMENTO (+4 more)
 
 ## Knowledge Gaps
-- **72 isolated node(s):** `start-tunnel.sh script`, `SSHPASS`, `Persona`, `Missao`, `Dominio de atuacao` (+67 more)
+- **73 isolated node(s):** `start-tunnel.sh script`, `SSHPASS`, `Persona`, `Missao`, `Dominio de atuacao` (+68 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -106,16 +106,16 @@ Nodes (12): ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA C
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `SSH Tunnel Sidecar` connect `Community 7` to `Community 1`, `Community 5`, `Community 14`?**
-  _High betweenness centrality (0.135) - this node is a cross-community bridge._
+  _High betweenness centrality (0.142) - this node is a cross-community bridge._
 - **Why does `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` connect `Community 15` to `Community 14`?**
-  _High betweenness centrality (0.071) - this node is a cross-community bridge._
+  _High betweenness centrality (0.074) - this node is a cross-community bridge._
 - **What connects `start-tunnel.sh script`, `SSHPASS`, `Persona` to the rest of the system?**
-  _72 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _73 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 7` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
 - **Should `Community 10` be split into smaller, more focused modules?**
   _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
 - **Should `Community 13` be split into smaller, more focused modules?**
-  _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
 - **Should `Community 14` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
