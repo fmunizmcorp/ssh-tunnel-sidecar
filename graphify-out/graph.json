@@ -132,8 +132,8 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "claude_orquestrador_squad_sob_sua_coordenacao",
-      "community": 11,
-      "community_name": "Orquestrador - fmunizmcorp/ssh-tunnel-sidecar",
+      "community": 0,
+      "community_name": "Squad sob sua coordenacao",
       "norm_label": "squad sob sua coordenacao"
     },
     {
@@ -143,8 +143,8 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "claude_orquestrador_sempre_disponiveis_basais",
-      "community": 11,
-      "community_name": "Orquestrador - fmunizmcorp/ssh-tunnel-sidecar",
+      "community": 0,
+      "community_name": "Squad sob sua coordenacao",
       "norm_label": "sempre disponiveis (basais)"
     },
     {
@@ -154,8 +154,8 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "claude_orquestrador_especialistas_deste_projeto",
-      "community": 11,
-      "community_name": "Orquestrador - fmunizmcorp/ssh-tunnel-sidecar",
+      "community": 0,
+      "community_name": "Squad sob sua coordenacao",
       "norm_label": "especialistas deste projeto"
     },
     {
@@ -190,94 +190,6 @@
       "community": 11,
       "community_name": "Orquestrador - fmunizmcorp/ssh-tunnel-sidecar",
       "norm_label": "decisoes que nao sao suas"
-    },
-    {
-      "label": "prompts.md",
-      "file_type": "document",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "claude_prompts",
-      "community": 10,
-      "community_name": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "prompts.md"
-    },
-    {
-      "label": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "file_type": "document",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
-      "community": 10,
-      "community_name": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "prompts e templates - fmunizmcorp/ssh-tunnel-sidecar"
-    },
-    {
-      "label": "Template 1: Comeco de sessao",
-      "file_type": "document",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L6",
-      "_origin": "ast",
-      "id": "claude_prompts_template_1_comeco_de_sessao",
-      "community": 10,
-      "community_name": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "template 1: comeco de sessao"
-    },
-    {
-      "label": "Template 2: Implementacao de feature",
-      "file_type": "document",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L17",
-      "_origin": "ast",
-      "id": "claude_prompts_template_2_implementacao_de_feature",
-      "community": 10,
-      "community_name": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "template 2: implementacao de feature"
-    },
-    {
-      "label": "Template 3: Bug fix",
-      "file_type": "document",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L34",
-      "_origin": "ast",
-      "id": "claude_prompts_template_3_bug_fix",
-      "community": 10,
-      "community_name": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "template 3: bug fix"
-    },
-    {
-      "label": "Template 4: Auditoria/revisao",
-      "file_type": "document",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L48",
-      "_origin": "ast",
-      "id": "claude_prompts_template_4_auditoria_revisao",
-      "community": 10,
-      "community_name": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "template 4: auditoria/revisao"
-    },
-    {
-      "label": "Template 5: Deploy e validacao",
-      "file_type": "document",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L63",
-      "_origin": "ast",
-      "id": "claude_prompts_template_5_deploy_e_validacao",
-      "community": 10,
-      "community_name": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "template 5: deploy e validacao"
-    },
-    {
-      "label": "Template 7: Atualizacao de skills",
-      "file_type": "document",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L80",
-      "_origin": "ast",
-      "id": "claude_prompts_template_7_atualizacao_de_skills",
-      "community": 10,
-      "community_name": "Prompts e Templates - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "template 7: atualizacao de skills"
     },
     {
       "label": "skills.md",
@@ -322,721 +234,6 @@
       "community": 12,
       "community_name": "Skills aplicaveis (Shell / Outros)",
       "norm_label": "padroes"
-    },
-    {
-      "label": "CLAUDE.md",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "claude",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "claude.md"
-    },
-    {
-      "label": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L8",
-      "_origin": "ast",
-      "id": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "atencao claude - leia e obedeca este bloco antes de qualquer outra coisa"
-    },
-    {
-      "label": "REGRA -1 - O USUARIO E LEIGO. NUNCA PERGUNTE SOBRE PERSONA, SKILL OU CONFIGURACAO.",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L10",
-      "_origin": "ast",
-      "id": "claude_regra_1_o_usuario_e_leigo_nunca_pergunte_sobre_persona_skill_ou_configuracao",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra -1 - o usuario e leigo. nunca pergunte sobre persona, skill ou configuracao."
-    },
-    {
-      "label": "REGRA 0 - VOCE E O LIDER + ORQUESTRADOR DESTE REPO. ATIVO. AGORA.",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L22",
-      "_origin": "ast",
-      "id": "claude_regra_0_voce_e_o_lider_orquestrador_deste_repo_ativo_agora",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra 0 - voce e o lider + orquestrador deste repo. ativo. agora."
-    },
-    {
-      "label": "REGRA 1 - SKILLS BASAIS - SEMPRE ON. NAO PERGUNTE. NAO ESCOLHA.",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L41",
-      "_origin": "ast",
-      "id": "claude_regra_1_skills_basais_sempre_on_nao_pergunte_nao_escolha",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra 1 - skills basais - sempre on. nao pergunte. nao escolha."
-    },
-    {
-      "label": "REGRA 2 - SKILLS CONDICIONAIS PARA REPO DE DESENVOLVIMENTO",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L51",
-      "_origin": "ast",
-      "id": "claude_regra_2_skills_condicionais_para_repo_de_desenvolvimento",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra 2 - skills condicionais para repo de desenvolvimento"
-    },
-    {
-      "label": "REGRA 2.5 - GERACAO DE ARQUIVOS (Excel, PDF, DOCX, PPTX) - SKILLS XLSX/PDF/DOCX/PPTX",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L69",
-      "_origin": "ast",
-      "id": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra 2.5 - geracao de arquivos (excel, pdf, docx, pptx) - skills xlsx/pdf/docx/pptx"
-    },
-    {
-      "label": "Padroes Brasil obrigatorios em cada arquivo gerado",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L81",
-      "_origin": "ast",
-      "id": "claude_padroes_brasil_obrigatorios_em_cada_arquivo_gerado",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "padroes brasil obrigatorios em cada arquivo gerado"
-    },
-    {
-      "label": "Fluxo padrao quando o usuario pede arquivo",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L88",
-      "_origin": "ast",
-      "id": "claude_fluxo_padrao_quando_o_usuario_pede_arquivo",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "fluxo padrao quando o usuario pede arquivo"
-    },
-    {
-      "label": "REGRA 3 - PROTOCOLO DE LEITURA OBRIGATORIO (toda mensagem nova)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L98",
-      "_origin": "ast",
-      "id": "claude_regra_3_protocolo_de_leitura_obrigatorio_toda_mensagem_nova",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra 3 - protocolo de leitura obrigatorio (toda mensagem nova)"
-    },
-    {
-      "label": "REGRA 4 - PROTOCOLO DE FECHAMENTO OBRIGATORIO (toda sessao com mudancas)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L111",
-      "_origin": "ast",
-      "id": "claude_regra_4_protocolo_de_fechamento_obrigatorio_toda_sessao_com_mudancas",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra 4 - protocolo de fechamento obrigatorio (toda sessao com mudancas)"
-    },
-    {
-      "label": "REGRA 5 - DECISAO DO USUARIO SOBRE CREDENCIAIS (ja documentada)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L120",
-      "_origin": "ast",
-      "id": "claude_regra_5_decisao_do_usuario_sobre_credenciais_ja_documentada",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra 5 - decisao do usuario sobre credenciais (ja documentada)"
-    },
-    {
-      "label": "REGRA 6 - PADROES BRASIL OBRIGATORIOS",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L124",
-      "_origin": "ast",
-      "id": "claude_regra_6_padroes_brasil_obrigatorios",
-      "community": 15,
-      "community_name": "ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA",
-      "norm_label": "regra 6 - padroes brasil obrigatorios"
-    },
-    {
-      "label": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L158",
-      "_origin": "ast",
-      "id": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "claude.md - fmunizmcorp/ssh-tunnel-sidecar"
-    },
-    {
-      "label": "ZERO. PROTOCOLO DE ATIVACAO (executar SEMPRE no inicio da conversa)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L163",
-      "_origin": "ast",
-      "id": "claude_zero_protocolo_de_ativacao_executar_sempre_no_inicio_da_conversa",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "zero. protocolo de ativacao (executar sempre no inicio da conversa)"
-    },
-    {
-      "label": "ZERO.1 EXCELENCIA TOTAL (regras inegociaveis)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L178",
-      "_origin": "ast",
-      "id": "claude_zero_1_excelencia_total_regras_inegociaveis",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "zero.1 excelencia total (regras inegociaveis)"
-    },
-    {
-      "label": "1. IDENTIDADE DO PROJETO",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L192",
-      "_origin": "ast",
-      "id": "claude_1_identidade_do_projeto",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "1. identidade do projeto"
-    },
-    {
-      "label": "2. SEU PAPEL - ORQUESTRADOR",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L200",
-      "_origin": "ast",
-      "id": "claude_2_seu_papel_orquestrador",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "2. seu papel - orquestrador"
-    },
-    {
-      "label": "3. SQUAD DE IAs (skills aplicaveis)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L218",
-      "_origin": "ast",
-      "id": "claude_3_squad_de_ias_skills_aplicaveis",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "3. squad de ias (skills aplicaveis)"
-    },
-    {
-      "label": "Skills BASAIS (sempre validas em qualquer tarefa)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L220",
-      "_origin": "ast",
-      "id": "claude_skills_basais_sempre_validas_em_qualquer_tarefa",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "skills basais (sempre validas em qualquer tarefa)"
-    },
-    {
-      "label": "Skills ESPECIFICAS deste projeto",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L228",
-      "_origin": "ast",
-      "id": "claude_skills_especificas_deste_projeto",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "skills especificas deste projeto"
-    },
-    {
-      "label": "Quando usar cada skill",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L232",
-      "_origin": "ast",
-      "id": "claude_quando_usar_cada_skill",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "quando usar cada skill"
-    },
-    {
-      "label": "4. METODOLOGIA DE TRABALHO",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L236",
-      "_origin": "ast",
-      "id": "claude_4_metodologia_de_trabalho",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "4. metodologia de trabalho"
-    },
-    {
-      "label": "Fluxo padrao para qualquer tarefa",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L238",
-      "_origin": "ast",
-      "id": "claude_fluxo_padrao_para_qualquer_tarefa",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "fluxo padrao para qualquer tarefa"
-    },
-    {
-      "label": "Padroes obrigatorios",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L274",
-      "_origin": "ast",
-      "id": "claude_padroes_obrigatorios",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "padroes obrigatorios"
-    },
-    {
-      "label": "5. CONHECIMENTO ESPECIFICO DO PROJETO",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L284",
-      "_origin": "ast",
-      "id": "claude_5_conhecimento_especifico_do_projeto",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "5. conhecimento especifico do projeto"
-    },
-    {
-      "label": "Sumario do README",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L286",
-      "_origin": "ast",
-      "id": "claude_sumario_do_readme",
-      "community": 14,
-      "community_name": "CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar",
-      "norm_label": "sumario do readme"
-    },
-    {
-      "label": "SSH Tunnel Sidecar",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L288",
-      "_origin": "ast",
-      "id": "claude_ssh_tunnel_sidecar",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "ssh tunnel sidecar"
-    },
-    {
-      "label": "Problema que Resolve",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L292",
-      "_origin": "ast",
-      "id": "claude_problema_que_resolve",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "problema que resolve"
-    },
-    {
-      "label": "Arquitetura",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L296",
-      "_origin": "ast",
-      "id": "claude_arquitetura",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "arquitetura"
-    },
-    {
-      "label": "Como Usar no EasyPanel",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L310",
-      "_origin": "ast",
-      "id": "claude_como_usar_no_easypanel",
-      "community": 5,
-      "community_name": "Como Usar no EasyPanel",
-      "norm_label": "como usar no easypanel"
-    },
-    {
-      "label": "1. Criar novo projeto no EasyPanel",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L312",
-      "_origin": "ast",
-      "id": "claude_1_criar_novo_projeto_no_easypanel",
-      "community": 5,
-      "community_name": "Como Usar no EasyPanel",
-      "norm_label": "1. criar novo projeto no easypanel"
-    },
-    {
-      "label": "2. Configurar variveis de ambiente",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L319",
-      "_origin": "ast",
-      "id": "claude_2_configurar_variveis_de_ambiente",
-      "community": 5,
-      "community_name": "Como Usar no EasyPanel",
-      "norm_label": "2. configurar variveis de ambiente"
-    },
-    {
-      "label": "3. Configurar networking",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L330",
-      "_origin": "ast",
-      "id": "claude_3_configurar_networking",
-      "community": 5,
-      "community_name": "Como Usar no EasyPanel",
-      "norm_label": "3. configurar networking"
-    },
-    {
-      "label": "4. Configurar o uscall-scraper",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L335",
-      "_origin": "ast",
-      "id": "claude_4_configurar_o_uscall_scraper",
-      "community": 5,
-      "community_name": "Como Usar no EasyPanel",
-      "norm_label": "4. configurar o uscall-scraper"
-    },
-    {
-      "label": "Validao",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L350",
-      "_origin": "ast",
-      "id": "claude_validao",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "validao"
-    },
-    {
-      "label": "7. ESTRUTURA DO REPO",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L356",
-      "_origin": "ast",
-      "id": "claude_7_estrutura_do_repo",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "7. estrutura do repo"
-    },
-    {
-      "label": "Diretorios principais",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L358",
-      "_origin": "ast",
-      "id": "claude_diretorios_principais",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "diretorios principais"
-    },
-    {
-      "label": "Arquivos da raiz (amostra)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L365",
-      "_origin": "ast",
-      "id": "claude_arquivos_da_raiz_amostra",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "arquivos da raiz (amostra)"
-    },
-    {
-      "label": "9. APRENDIZADO E ATUALIZACAO CONTINUA",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L376",
-      "_origin": "ast",
-      "id": "claude_9_aprendizado_e_atualizacao_continua",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "9. aprendizado e atualizacao continua"
-    },
-    {
-      "label": "Regra de ouro: SEMPRE atualize o conhecimento do projeto",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L378",
-      "_origin": "ast",
-      "id": "claude_regra_de_ouro_sempre_atualize_o_conhecimento_do_projeto",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "regra de ouro: sempre atualize o conhecimento do projeto"
-    },
-    {
-      "label": "Triggers para regenerar grafo",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L404",
-      "_origin": "ast",
-      "id": "claude_triggers_para_regenerar_grafo",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "triggers para regenerar grafo"
-    },
-    {
-      "label": "10. CHECKLIST DE ENTREGA OBRIGATORIO",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L414",
-      "_origin": "ast",
-      "id": "claude_10_checklist_de_entrega_obrigatorio",
-      "community": 0,
-      "community_name": "10. CHECKLIST DE ENTREGA OBRIGATORIO",
-      "norm_label": "10. checklist de entrega obrigatorio"
-    },
-    {
-      "label": "Codigo",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L418",
-      "_origin": "ast",
-      "id": "claude_codigo",
-      "community": 0,
-      "community_name": "10. CHECKLIST DE ENTREGA OBRIGATORIO",
-      "norm_label": "codigo"
-    },
-    {
-      "label": "Testes",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L426",
-      "_origin": "ast",
-      "id": "claude_testes",
-      "community": 0,
-      "community_name": "10. CHECKLIST DE ENTREGA OBRIGATORIO",
-      "norm_label": "testes"
-    },
-    {
-      "label": "Documentacao",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L434",
-      "_origin": "ast",
-      "id": "claude_documentacao",
-      "community": 0,
-      "community_name": "10. CHECKLIST DE ENTREGA OBRIGATORIO",
-      "norm_label": "documentacao"
-    },
-    {
-      "label": "Deploy",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L442",
-      "_origin": "ast",
-      "id": "claude_deploy",
-      "community": 0,
-      "community_name": "10. CHECKLIST DE ENTREGA OBRIGATORIO",
-      "norm_label": "deploy"
-    },
-    {
-      "label": "Sinalizar conclusao",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L450",
-      "_origin": "ast",
-      "id": "claude_sinalizar_conclusao",
-      "community": 0,
-      "community_name": "10. CHECKLIST DE ENTREGA OBRIGATORIO",
-      "norm_label": "sinalizar conclusao"
-    },
-    {
-      "label": "11. REFERENCIAS RAPIDAS",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L456",
-      "_origin": "ast",
-      "id": "claude_11_referencias_rapidas",
-      "community": 7,
-      "community_name": "SSH Tunnel Sidecar",
-      "norm_label": "11. referencias rapidas"
-    },
-    {
-      "label": "README.md",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "readme",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "readme.md"
-    },
-    {
-      "label": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "readme_ssh_tunnel_sidecar",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\ud83d\udd17 ssh tunnel sidecar"
-    },
-    {
-      "label": "\ud83c\udfaf Problema que Resolve",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L5",
-      "_origin": "ast",
-      "id": "readme_problema_que_resolve",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\ud83c\udfaf problema que resolve"
-    },
-    {
-      "label": "\ud83c\udfd7\ufe0f Arquitetura",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L9",
-      "_origin": "ast",
-      "id": "readme_arquitetura",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\ud83c\udfd7\ufe0f arquitetura"
-    },
-    {
-      "label": "\ud83d\ude80 Como Usar no EasyPanel",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L23",
-      "_origin": "ast",
-      "id": "readme_como_usar_no_easypanel",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\ud83d\ude80 como usar no easypanel"
-    },
-    {
-      "label": "1. Criar novo projeto no EasyPanel",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L25",
-      "_origin": "ast",
-      "id": "readme_1_criar_novo_projeto_no_easypanel",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "1. criar novo projeto no easypanel"
-    },
-    {
-      "label": "2. Configurar vari\u00e1veis de ambiente",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L32",
-      "_origin": "ast",
-      "id": "readme_2_configurar_vari\u00e1veis_de_ambiente",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "2. configurar variaveis de ambiente"
-    },
-    {
-      "label": "3. Configurar networking",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L43",
-      "_origin": "ast",
-      "id": "readme_3_configurar_networking",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "3. configurar networking"
-    },
-    {
-      "label": "4. Configurar o uscall-scraper",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L48",
-      "_origin": "ast",
-      "id": "readme_4_configurar_o_uscall_scraper",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "4. configurar o uscall-scraper"
-    },
-    {
-      "label": "\u2705 Valida\u00e7\u00e3o",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L63",
-      "_origin": "ast",
-      "id": "readme_valida\u00e7\u00e3o",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\u2705 validacao"
-    },
-    {
-      "label": "\ud83e\uddea Testar do uscall-scraper",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L84",
-      "_origin": "ast",
-      "id": "readme_testar_do_uscall_scraper",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\ud83e\uddea testar do uscall-scraper"
-    },
-    {
-      "label": "\ud83d\udd27 Troubleshooting",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L91",
-      "_origin": "ast",
-      "id": "readme_troubleshooting",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\ud83d\udd27 troubleshooting"
-    },
-    {
-      "label": "T\u00fanel desconecta",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L93",
-      "_origin": "ast",
-      "id": "readme_t\u00fanel_desconecta",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "tunel desconecta"
-    },
-    {
-      "label": "\"Connection refused\"",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L97",
-      "_origin": "ast",
-      "id": "readme_connection_refused",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\"connection refused\""
-    },
-    {
-      "label": "\"Permission denied\"",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L102",
-      "_origin": "ast",
-      "id": "readme_permission_denied",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\"permission denied\""
-    },
-    {
-      "label": "\ud83d\udcdd Commits",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L107",
-      "_origin": "ast",
-      "id": "readme_commits",
-      "community": 13,
-      "community_name": "\ud83d\udd17 SSH Tunnel Sidecar",
-      "norm_label": "\ud83d\udcdd commits"
     },
     {
       "label": "APRENDIZADOS.md",
@@ -1155,8 +352,8 @@
       "source_location": "L298",
       "community": 20,
       "norm_label": "code:block1 ([container app])",
-      "id": "ssh_tunnel_sidecar_claude_codeblock_1",
-      "community_name": "code:block1 ([Container App])"
+      "community_name": "code:block1 ([Container App])",
+      "id": "ssh_tunnel_sidecar_claude_codeblock_1"
     },
     {
       "label": "code:bash (SSH_HOST=192.168.192.164)",
@@ -1165,8 +362,8 @@
       "source_location": "L321",
       "community": 21,
       "norm_label": "code:bash (ssh_host=192.168.192.164)",
-      "id": "ssh_tunnel_sidecar_claude_codeblock_2",
-      "community_name": "code:bash (SSH_HOST=192.168.192.164)"
+      "community_name": "code:bash (SSH_HOST=192.168.192.164)",
+      "id": "ssh_tunnel_sidecar_claude_codeblock_2"
     },
     {
       "label": "code:bash (# REMOVER ESTAS (no funciona em rede bridge):)",
@@ -1175,8 +372,8 @@
       "source_location": "L339",
       "community": 22,
       "norm_label": "code:bash (# remover estas (no funciona em rede bridge):)",
-      "id": "ssh_tunnel_sidecar_claude_codeblock_3",
-      "community_name": "code:bash (# REMOVER ESTAS (no funciona em rede bridge):)"
+      "community_name": "code:bash (# REMOVER ESTAS (no funciona em rede bridge):)",
+      "id": "ssh_tunnel_sidecar_claude_codeblock_3"
     },
     {
       "label": "code:block4 (.claude)",
@@ -1185,8 +382,8 @@
       "source_location": "L360",
       "community": 1,
       "norm_label": "code:block4 (.claude)",
-      "id": "ssh_tunnel_sidecar_claude_codeblock_4",
-      "community_name": "code:block4 (.claude)"
+      "community_name": "code:block4 (.claude)",
+      "id": "ssh_tunnel_sidecar_claude_codeblock_4"
     },
     {
       "label": "code:block5 (.gitignore)",
@@ -1195,8 +392,8 @@
       "source_location": "L367",
       "community": 23,
       "norm_label": "code:block5 (.gitignore)",
-      "id": "ssh_tunnel_sidecar_claude_codeblock_5",
-      "community_name": "code:block5 (.gitignore)"
+      "community_name": "code:block5 (.gitignore)",
+      "id": "ssh_tunnel_sidecar_claude_codeblock_5"
     },
     {
       "label": "code:block1 ([Container App])",
@@ -1205,8 +402,8 @@
       "source_location": "L11",
       "community": 24,
       "norm_label": "code:block1 ([container app])",
-      "id": "ssh_tunnel_sidecar_readme_codeblock_1",
-      "community_name": "code:block1 ([Container App])"
+      "community_name": "code:block1 ([Container App])",
+      "id": "ssh_tunnel_sidecar_readme_codeblock_1"
     },
     {
       "label": "code:bash (SSH_HOST=192.168.192.164)",
@@ -1215,8 +412,8 @@
       "source_location": "L34",
       "community": 4,
       "norm_label": "code:bash (ssh_host=192.168.192.164)",
-      "id": "ssh_tunnel_sidecar_readme_codeblock_2",
-      "community_name": "code:bash (SSH_HOST=192.168.192.164)"
+      "community_name": "code:bash (SSH_HOST=192.168.192.164)",
+      "id": "ssh_tunnel_sidecar_readme_codeblock_2"
     },
     {
       "label": "code:bash (# REMOVER ESTAS (n\u00e3o funciona em rede bridge):)",
@@ -1225,8 +422,8 @@
       "source_location": "L52",
       "community": 25,
       "norm_label": "code:bash (# remover estas (nao funciona em rede bridge):)",
-      "id": "ssh_tunnel_sidecar_readme_codeblock_3",
-      "community_name": "code:bash (# REMOVER ESTAS (n\u00e3o funciona em rede bridge):)"
+      "community_name": "code:bash (# REMOVER ESTAS (n\u00e3o funciona em rede bridge):)",
+      "id": "ssh_tunnel_sidecar_readme_codeblock_3"
     },
     {
       "label": "code:block4 (\ud83d\ude80 Iniciando SSH Tunnel Sidecar...)",
@@ -1235,8 +432,8 @@
       "source_location": "L67",
       "community": 26,
       "norm_label": "code:block4 (\ud83d\ude80 iniciando ssh tunnel sidecar...)",
-      "id": "ssh_tunnel_sidecar_readme_codeblock_4",
-      "community_name": "code:block4 (\ud83d\ude80 Iniciando SSH Tunnel Sidecar...)"
+      "community_name": "code:block4 (\ud83d\ude80 Iniciando SSH Tunnel Sidecar...)",
+      "id": "ssh_tunnel_sidecar_readme_codeblock_4"
     },
     {
       "label": "code:bash (# Dentro do container uscall-scraper:)",
@@ -1245,8 +442,8 @@
       "source_location": "L86",
       "community": 27,
       "norm_label": "code:bash (# dentro do container uscall-scraper:)",
-      "id": "ssh_tunnel_sidecar_readme_codeblock_5",
-      "community_name": "code:bash (# Dentro do container uscall-scraper:)"
+      "community_name": "code:bash (# Dentro do container uscall-scraper:)",
+      "id": "ssh_tunnel_sidecar_readme_codeblock_5"
     },
     {
       "label": "code:block1 (Trabalhando em fmunizmcorp/ssh-tunnel-sidecar. Como Engenhei)",
@@ -1255,8 +452,8 @@
       "source_location": "L8",
       "community": 2,
       "norm_label": "code:block1 (trabalhando em fmunizmcorp/ssh-tunnel-sidecar. como engenhei)",
-      "id": "claude_prompts_codeblock_1",
-      "community_name": "code:block1 (Trabalhando em fmunizmcorp/ssh-tunnel-sidecar. Como Engenhei)"
+      "community_name": "code:block1 (Trabalhando em fmunizmcorp/ssh-tunnel-sidecar. Como Engenhei)",
+      "id": "claude_prompts_codeblock_1"
     },
     {
       "label": "code:block2 (Feature nova em fmunizmcorp/ssh-tunnel-sidecar: <DESCRICAO>)",
@@ -1265,8 +462,8 @@
       "source_location": "L19",
       "community": 3,
       "norm_label": "code:block2 (feature nova em fmunizmcorp/ssh-tunnel-sidecar: <descricao>)",
-      "id": "claude_prompts_codeblock_2",
-      "community_name": "code:block2 (Feature nova em fmunizmcorp/ssh-tunnel-sidecar: <DESCRICAO>)"
+      "community_name": "code:block2 (Feature nova em fmunizmcorp/ssh-tunnel-sidecar: <DESCRICAO>)",
+      "id": "claude_prompts_codeblock_2"
     },
     {
       "label": "code:block3 (Bug em fmunizmcorp/ssh-tunnel-sidecar: <DESCRICAO + STACK TR)",
@@ -1275,8 +472,8 @@
       "source_location": "L36",
       "community": 16,
       "norm_label": "code:block3 (bug em fmunizmcorp/ssh-tunnel-sidecar: <descricao + stack tr)",
-      "id": "claude_prompts_codeblock_3",
-      "community_name": "code:block3 (Bug em fmunizmcorp/ssh-tunnel-sidecar: <DESCRICAO + STACK TR)"
+      "community_name": "code:block3 (Bug em fmunizmcorp/ssh-tunnel-sidecar: <DESCRICAO + STACK TR)",
+      "id": "claude_prompts_codeblock_3"
     },
     {
       "label": "code:block4 (Auditoria em fmunizmcorp/ssh-tunnel-sidecar: <ESCOPO>)",
@@ -1285,8 +482,8 @@
       "source_location": "L50",
       "community": 17,
       "norm_label": "code:block4 (auditoria em fmunizmcorp/ssh-tunnel-sidecar: <escopo>)",
-      "id": "claude_prompts_codeblock_4",
-      "community_name": "code:block4 (Auditoria em fmunizmcorp/ssh-tunnel-sidecar: <ESCOPO>)"
+      "community_name": "code:block4 (Auditoria em fmunizmcorp/ssh-tunnel-sidecar: <ESCOPO>)",
+      "id": "claude_prompts_codeblock_4"
     },
     {
       "label": "code:block5 (Deploy em fmunizmcorp/ssh-tunnel-sidecar: versao <X.Y.Z>)",
@@ -1295,8 +492,8 @@
       "source_location": "L65",
       "community": 18,
       "norm_label": "code:block5 (deploy em fmunizmcorp/ssh-tunnel-sidecar: versao <x.y.z>)",
-      "id": "claude_prompts_codeblock_5",
-      "community_name": "code:block5 (Deploy em fmunizmcorp/ssh-tunnel-sidecar: versao <X.Y.Z>)"
+      "community_name": "code:block5 (Deploy em fmunizmcorp/ssh-tunnel-sidecar: versao <X.Y.Z>)",
+      "id": "claude_prompts_codeblock_5"
     },
     {
       "label": "code:block6 (Descobri novo padrao em fmunizmcorp/ssh-tunnel-sidecar que v)",
@@ -1305,8 +502,8 @@
       "source_location": "L82",
       "community": 19,
       "norm_label": "code:block6 (descobri novo padrao em fmunizmcorp/ssh-tunnel-sidecar que v)",
-      "id": "claude_prompts_codeblock_6",
-      "community_name": "code:block6 (Descobri novo padrao em fmunizmcorp/ssh-tunnel-sidecar que v)"
+      "community_name": "code:block6 (Descobri novo padrao em fmunizmcorp/ssh-tunnel-sidecar que v)",
+      "id": "claude_prompts_codeblock_6"
     }
   ],
   "links": [
@@ -1317,9 +514,9 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "start_tunnel",
-      "target": "start_tunnel_sh__entry"
+      "target": "start_tunnel_sh__entry",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -1328,9 +525,9 @@
       "source_location": "L35",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "start_tunnel",
-      "target": "start_tunnel_sshpass"
+      "target": "start_tunnel_sshpass",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1339,9 +536,9 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador",
-      "target": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar"
+      "target": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1350,9 +547,9 @@
       "source_location": "L19",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_criticidade"
+      "target": "claude_orquestrador_criticidade",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1361,9 +558,9 @@
       "source_location": "L56",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_decisoes_que_nao_sao_suas"
+      "target": "claude_orquestrador_decisoes_que_nao_sao_suas",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1372,9 +569,9 @@
       "source_location": "L47",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_decisoes_que_voce_orquestrador_toma"
+      "target": "claude_orquestrador_decisoes_que_voce_orquestrador_toma",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1383,9 +580,9 @@
       "source_location": "L11",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_dominio_de_atuacao"
+      "target": "claude_orquestrador_dominio_de_atuacao",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1394,9 +591,9 @@
       "source_location": "L7",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_missao"
+      "target": "claude_orquestrador_missao",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1405,9 +602,9 @@
       "source_location": "L3",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_persona"
+      "target": "claude_orquestrador_persona",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1416,9 +613,9 @@
       "source_location": "L23",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_squad_sob_sua_coordenacao"
+      "target": "claude_orquestrador_squad_sob_sua_coordenacao",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1427,9 +624,9 @@
       "source_location": "L15",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_stack"
+      "target": "claude_orquestrador_stack",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1438,9 +635,9 @@
       "source_location": "L37",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_orquestrador_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_orquestrador_triggers_de_skills_quando_aplicar_cada_uma"
+      "target": "claude_orquestrador_triggers_de_skills_quando_aplicar_cada_uma",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1449,9 +646,9 @@
       "source_location": "L33",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_squad_sob_sua_coordenacao",
-      "target": "claude_orquestrador_especialistas_deste_projeto"
+      "target": "claude_orquestrador_especialistas_deste_projeto",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1460,86 +657,9 @@
       "source_location": "L25",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_orquestrador_squad_sob_sua_coordenacao",
-      "target": "claude_orquestrador_sempre_disponiveis_basais"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_prompts",
-      "target": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_prompts_template_1_comeco_de_sessao"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L17",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_prompts_template_2_implementacao_de_feature"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L34",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_prompts_template_3_bug_fix"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L48",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_prompts_template_4_auditoria_revisao"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L63",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_prompts_template_5_deploy_e_validacao"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/prompts.md",
-      "source_location": "L80",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_prompts_prompts_e_templates_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_prompts_template_7_atualizacao_de_skills"
+      "target": "claude_orquestrador_sempre_disponiveis_basais",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1548,9 +668,9 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_skills",
-      "target": "claude_skills_skills_aplicaveis_shell_outros"
+      "target": "claude_skills_skills_aplicaveis_shell_outros",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1559,9 +679,9 @@
       "source_location": "L3",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_skills_skills_aplicaveis_shell_outros",
-      "target": "claude_skills_basais_sempre"
+      "target": "claude_skills_basais_sempre",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -1570,702 +690,9 @@
       "source_location": "L10",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "claude_skills_skills_aplicaveis_shell_outros",
-      "target": "claude_skills_padroes"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L8",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude",
-      "target": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L158",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude",
-      "target": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L288",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude",
-      "target": "claude_ssh_tunnel_sidecar"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L22",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_0_voce_e_o_lider_orquestrador_deste_repo_ativo_agora"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L10",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_1_o_usuario_e_leigo_nunca_pergunte_sobre_persona_skill_ou_configuracao"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L41",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_1_skills_basais_sempre_on_nao_pergunte_nao_escolha"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L69",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L51",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_2_skills_condicionais_para_repo_de_desenvolvimento"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L98",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_3_protocolo_de_leitura_obrigatorio_toda_mensagem_nova"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L111",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_4_protocolo_de_fechamento_obrigatorio_toda_sessao_com_mudancas"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L120",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_5_decisao_do_usuario_sobre_credenciais_ja_documentada"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L124",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_atencao_claude_leia_e_obedeca_este_bloco_antes_de_qualquer_outra_coisa",
-      "target": "claude_regra_6_padroes_brasil_obrigatorios"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L88",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx",
-      "target": "claude_fluxo_padrao_quando_o_usuario_pede_arquivo"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L81",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_regra_2_5_geracao_de_arquivos_excel_pdf_docx_pptx_skills_xlsx_pdf_docx_pptx",
-      "target": "claude_padroes_brasil_obrigatorios_em_cada_arquivo_gerado"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L192",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_1_identidade_do_projeto"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L200",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_2_seu_papel_orquestrador"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L218",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_3_squad_de_ias_skills_aplicaveis"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L236",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_4_metodologia_de_trabalho"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L284",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_5_conhecimento_especifico_do_projeto"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L178",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_zero_1_excelencia_total_regras_inegociaveis"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L163",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_claude_md_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "claude_zero_protocolo_de_ativacao_executar_sempre_no_inicio_da_conversa"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L232",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_3_squad_de_ias_skills_aplicaveis",
-      "target": "claude_quando_usar_cada_skill"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L220",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_3_squad_de_ias_skills_aplicaveis",
-      "target": "claude_skills_basais_sempre_validas_em_qualquer_tarefa"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L228",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_3_squad_de_ias_skills_aplicaveis",
-      "target": "claude_skills_especificas_deste_projeto"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L238",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_4_metodologia_de_trabalho",
-      "target": "claude_fluxo_padrao_para_qualquer_tarefa"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L274",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_4_metodologia_de_trabalho",
-      "target": "claude_padroes_obrigatorios"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L286",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_5_conhecimento_especifico_do_projeto",
-      "target": "claude_sumario_do_readme"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L414",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_10_checklist_de_entrega_obrigatorio"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L456",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_11_referencias_rapidas"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L356",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_7_estrutura_do_repo"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L376",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_9_aprendizado_e_atualizacao_continua"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L296",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_arquitetura"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L310",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_como_usar_no_easypanel"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L292",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_problema_que_resolve"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L350",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_ssh_tunnel_sidecar",
-      "target": "claude_validao"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L312",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_como_usar_no_easypanel",
-      "target": "claude_1_criar_novo_projeto_no_easypanel"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L319",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_como_usar_no_easypanel",
-      "target": "claude_2_configurar_variveis_de_ambiente"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L330",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_como_usar_no_easypanel",
-      "target": "claude_3_configurar_networking"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L335",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_como_usar_no_easypanel",
-      "target": "claude_4_configurar_o_uscall_scraper"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L365",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_7_estrutura_do_repo",
-      "target": "claude_arquivos_da_raiz_amostra"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L358",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_7_estrutura_do_repo",
-      "target": "claude_diretorios_principais"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L378",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_9_aprendizado_e_atualizacao_continua",
-      "target": "claude_regra_de_ouro_sempre_atualize_o_conhecimento_do_projeto"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L404",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_9_aprendizado_e_atualizacao_continua",
-      "target": "claude_triggers_para_regenerar_grafo"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L418",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_codigo"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L442",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_deploy"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L434",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_documentacao"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L450",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_sinalizar_conclusao"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L426",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "claude_10_checklist_de_entrega_obrigatorio",
-      "target": "claude_testes"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme",
-      "target": "readme_ssh_tunnel_sidecar"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L9",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_arquitetura"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L107",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_commits"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L23",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_como_usar_no_easypanel"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L5",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_problema_que_resolve"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L84",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_testar_do_uscall_scraper"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L91",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_troubleshooting"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L63",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_ssh_tunnel_sidecar",
-      "target": "readme_valida\u00e7\u00e3o"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L25",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_como_usar_no_easypanel",
-      "target": "readme_1_criar_novo_projeto_no_easypanel"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L32",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_como_usar_no_easypanel",
-      "target": "readme_2_configurar_vari\u00e1veis_de_ambiente"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L43",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_como_usar_no_easypanel",
-      "target": "readme_3_configurar_networking"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L48",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_como_usar_no_easypanel",
-      "target": "readme_4_configurar_o_uscall_scraper"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L97",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_troubleshooting",
-      "target": "readme_connection_refused"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L102",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_troubleshooting",
-      "target": "readme_permission_denied"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L93",
-      "weight": 1.0,
-      "_origin": "ast",
-      "confidence_score": 1.0,
-      "source": "readme_troubleshooting",
-      "target": "readme_t\u00fanel_desconecta"
+      "target": "claude_skills_padroes",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2274,9 +701,9 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "docs_aprendizados",
-      "target": "docs_aprendizados_aprendizados_fmunizmcorp_ssh_tunnel_sidecar"
+      "target": "docs_aprendizados_aprendizados_fmunizmcorp_ssh_tunnel_sidecar",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2285,9 +712,9 @@
       "source_location": "L13",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "docs_aprendizados_aprendizados_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "docs_aprendizados_aprendizados"
+      "target": "docs_aprendizados_aprendizados",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2296,9 +723,9 @@
       "source_location": "L7",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "docs_aprendizados_aprendizados_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "docs_aprendizados_como_usar"
+      "target": "docs_aprendizados_como_usar",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2307,9 +734,9 @@
       "source_location": "L17",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "docs_aprendizados_aprendizados",
-      "target": "docs_aprendizados_yyyy_mm_dd_titulo_do_aprendizado_categoria"
+      "target": "docs_aprendizados_yyyy_mm_dd_titulo_do_aprendizado_categoria",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2318,9 +745,9 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "docs_historico",
-      "target": "docs_historico_historico_de_sessoes_fmunizmcorp_ssh_tunnel_sidecar"
+      "target": "docs_historico_historico_de_sessoes_fmunizmcorp_ssh_tunnel_sidecar",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2329,9 +756,9 @@
       "source_location": "L5",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "docs_historico_historico_de_sessoes_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "docs_historico_como_usar"
+      "target": "docs_historico_como_usar",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2340,9 +767,9 @@
       "source_location": "L10",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "docs_historico_historico_de_sessoes_fmunizmcorp_ssh_tunnel_sidecar",
-      "target": "docs_historico_historico"
+      "target": "docs_historico_historico",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2351,11 +778,11 @@
       "source_location": "L14",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "docs_historico_historico",
-      "target": "docs_historico_yyyy_mm_dd_vx_y_z_titulo_da_sessao"
+      "target": "docs_historico_yyyy_mm_dd_vx_y_z_titulo_da_sessao",
+      "confidence_score": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "9c737d7cf0fa950d56a98d3ab36563025799c86c"
+  "built_at_commit": "ee5839bc7257f8c7340a45a2626b72e8f6b79177"
 }
