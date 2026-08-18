@@ -1,4 +1,4 @@
-# Graph Report - ssh-tunnel-sidecar  (2026-08-02)
+# Graph Report - ssh-tunnel-sidecar  (2026-08-18)
 
 ## Corpus Check
 - 8 files · ~4,113 words
@@ -10,7 +10,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `4a828365`
+- Built from commit: `819bac43`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
