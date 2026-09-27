@@ -1,61 +1,61 @@
 {
   "start-tunnel.sh": {
-    "mtime": 1790420371.566017,
-    "seen": 1790420382.0555859,
+    "mtime": 1790509090.5631073,
+    "seen": 1790509104.7321825,
     "ast_hash": "e31517936e1b7b16db3fa5a39d38b901",
     "semantic_hash": ""
   },
   "privoxy-config.txt": {
-    "mtime": 1790420371.566017,
-    "seen": 1790420382.0555978,
+    "mtime": 1790509090.5631073,
+    "seen": 1790509104.7321923,
     "ast_hash": "2825d49d824eb8a2f42fff03c0a0ee3f",
     "semantic_hash": ""
   },
   "CLAUDE.md": {
-    "mtime": 1790420371.5651355,
-    "seen": 1790420382.055594,
+    "mtime": 1790509090.5626385,
+    "seen": 1790509104.7321892,
     "ast_hash": "3c03928bec94797acb958c8d917f7e27",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1790420371.5651355,
-    "seen": 1790420382.055595,
+    "mtime": 1790509090.5626385,
+    "seen": 1790509104.73219,
     "ast_hash": "6938040114e352421d0e29f3e0e74efc",
     "semantic_hash": ""
   },
   "docs/APRENDIZADOS.md": {
-    "mtime": 1790420371.5651355,
-    "seen": 1790420382.055596,
+    "mtime": 1790509090.5626385,
+    "seen": 1790509104.7321906,
     "ast_hash": "c45e2f627f01f11996b3a176855b505e",
     "semantic_hash": ""
   },
   "docs/HISTORICO.md": {
-    "mtime": 1790420371.565415,
-    "seen": 1790420382.0555968,
+    "mtime": 1790509090.5629787,
+    "seen": 1790509104.7321916,
     "ast_hash": "d2ce36f2c34975a99f042bbd65f50835",
     "semantic_hash": ""
   },
   ".github/workflows/graphify.yml": {
-    "mtime": 1790420371.5651355,
-    "seen": 1790420382.055593,
+    "mtime": 1790509090.5626385,
+    "seen": 1790509104.7321885,
     "ast_hash": "3f73f40d0b691c5e97a37ddbe3d87734",
     "semantic_hash": ""
   },
   ".claude/skills.md": {
-    "mtime": 1790420371.5650556,
-    "seen": 1790420382.0555913,
+    "mtime": 1790509090.5625386,
+    "seen": 1790509104.7321875,
     "ast_hash": "6cfc756cdabaa169900c968bf736202f",
     "semantic_hash": ""
   },
   ".claude/prompts.md": {
-    "mtime": 1790420371.5650556,
-    "seen": 1790420382.0555902,
+    "mtime": 1790509090.5625386,
+    "seen": 1790509104.7321863,
     "ast_hash": "0d4975c9f4b74f7c159a55ed2ca6ddc0",
     "semantic_hash": ""
   },
   ".claude/orquestrador.md": {
-    "mtime": 1790420371.5640168,
-    "seen": 1790420382.0555887,
+    "mtime": 1790509090.5610433,
+    "seen": 1790509104.7321851,
     "ast_hash": "f35b52fe5191e60c327bce44e378caf5",
     "semantic_hash": ""
   }
