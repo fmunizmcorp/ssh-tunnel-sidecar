@@ -1,8 +1,9 @@
-# Graph Report - ssh-tunnel-sidecar  (2026-08-18)
+# Graph Report - ssh-tunnel-sidecar  (2026-10-12)
 
 ## Corpus Check
 - 8 files · ~4,113 words
 - Verdict: corpus is large enough that graph structure adds value.
+- Unclassified: 2 file(s) not represented in the graph (top: (none) 2)
 
 ## Summary
 - 103 nodes · 95 edges · 12 communities (11 shown, 1 thin omitted)
@@ -10,7 +11,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `819bac43`
+- Built from commit: `5e165626`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -93,8 +94,8 @@ Cohesion: 0.50
 Nodes (3): Basais (sempre), Padroes, Skills aplicaveis (Shell / Outros)
 
 ## Knowledge Gaps
-- **73 isolated node(s):** `start-tunnel.sh script`, `SSHPASS`, `Persona`, `Missao`, `Dominio de atuacao` (+68 more)
-  These have ≤1 connection - possible missing edges or undocumented components.
+- **1 isolated node(s):** `SSHPASS`
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 79 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
@@ -102,11 +103,11 @@ _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `SSH Tunnel Sidecar` connect `SSH Tunnel Sidecar` to `CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar`, `10. CHECKLIST DE ENTREGA OBRIGATORIO`, `Como Usar no EasyPanel`?**
   _High betweenness centrality (0.145) - this node is a cross-community bridge._
-- **Why does `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` connect `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` to `CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar`?**
-  _High betweenness centrality (0.089) - this node is a cross-community bridge._
-- **What connects `start-tunnel.sh script`, `SSHPASS`, `Persona` to the rest of the system?**
-  _73 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **What connects `SSHPASS` to the rest of the system?**
+  _1 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `🔗 SSH Tunnel Sidecar` be split into smaller, more focused modules?**
   _Cohesion score 0.125 - nodes in this community are weakly interconnected._
+- **Why does `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` connect `ATENCAO CLAUDE - LEIA E OBEDECA ESTE BLOCO ANTES DE QUALQUER OUTRA COISA` to `CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar`?**
+  _High betweenness centrality (0.089) - this node is a cross-community bridge._
 - **Should `CLAUDE.md - fmunizmcorp/ssh-tunnel-sidecar` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
