@@ -1,4 +1,4 @@
-# Graph Report - ssh-tunnel-sidecar  (2026-10-24)
+# Graph Report - ssh-tunnel-sidecar  (2026-10-28)
 
 ## Corpus Check
 - 9 files · ~4,113 words
@@ -11,7 +11,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `4fab9d7e`
+- Built from commit: `605a478a`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -76,7 +76,7 @@ Nodes (6): 10. CHECKLIST DE ENTREGA OBRIGATORIO, Codigo, Deploy, Documentacao, S
 
 ### Community 7 - "graphify.yml"
 Cohesion: 0.13
-Nodes (14): name, runs-on, jobs, graphify, name, permissions, contents, branches (+6 more)
+Nodes (14): name, runs-on, jobs, graphify, name, on, push, schedule (+6 more)
 
 ### Community 8 - "Aprendizados - fmunizmcorp/ssh-tunnel-sidecar"
 Cohesion: 0.40
